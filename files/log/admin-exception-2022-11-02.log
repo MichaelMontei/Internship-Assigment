@@ -1,0 +1,969 @@
+2022-11-02 10:12:38	Constructed Console	
+2022-11-02 10:12:38	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 10:12:38	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 10:12:38	Destructed Console
+--
+	
+2022-11-02 12:01:17	Constructed Console	
+2022-11-02 12:01:17	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 12:01:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 12:01:17	Destructed Console
+--
+	
+2022-11-02 12:01:29	Constructed Console	
+2022-11-02 12:01:29	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 12:01:29	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 12:01:29	Destructed Console
+--
+	
+2022-11-02 12:01:34	Constructed Console	
+2022-11-02 12:01:34	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 12:01:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 12:01:34	Destructed Console
+--
+	
+2022-11-02 12:03:14	Constructed Console	
+2022-11-02 12:03:14	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 12:03:14	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 12:03:14	Destructed Console
+--
+	
+2022-11-02 12:43:59	Constructed Console	
+2022-11-02 12:43:59	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-02 12:43:59	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 12:43:59	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-02 12:43:59	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 12:43:59	Destructed Console
+--
+	
+2022-11-02 12:44:00	Constructed Console	
+2022-11-02 12:44:00	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-02 12:44:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 12:44:00	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-02 12:44:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 12:44:00	Destructed Console
+--
+	
+2022-11-02 12:55:34	Constructed Console	
+2022-11-02 12:55:34	Error in soap call: 99999: Can not fetch Order with id null	
+2022-11-02 12:55:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(45): Tigron\Cp\Order::get_by_id(NULL)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#3 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#4 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-02 12:55:34	Destructed Console
+--
+	
+2022-11-02 12:58:49	Constructed Console	
+2022-11-02 12:58:49	Error in soap call: 99999: Can not fetch Order with id null	
+2022-11-02 12:58:49	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(45): Tigron\Cp\Order::get_by_id(NULL)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#3 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#4 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-02 12:58:49	Destructed Console
+--
+	
+2022-11-02 13:01:58	Constructed Console	
+2022-11-02 13:01:58	Error in soap call: 99999: Can not fetch Order with id null	
+2022-11-02 13:01:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(45): Tigron\Cp\Order::get_by_id(NULL)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#3 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#4 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-02 13:01:58	Destructed Console
+--
+	
+2022-11-02 13:05:18	Constructed Console	
+2022-11-02 13:05:18	Error in soap call: 99999: Can not fetch Order with id null	
+2022-11-02 13:05:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(45): Tigron\Cp\Order::get_by_id(NULL)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#3 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#4 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-02 13:05:18	Destructed Console
+--
+	
+2022-11-02 13:05:18	Constructed Console	
+2022-11-02 13:05:18	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 13:05:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 13:05:18	Destructed Console
+--
+	
+2022-11-02 13:05:18	Constructed Console	
+2022-11-02 13:05:18	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 13:05:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 13:05:18	Destructed Console
+--
+	
+2022-11-02 13:05:23	Constructed Console	
+2022-11-02 13:05:23	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-02 13:05:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 13:05:23	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-02 13:05:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 13:05:23	Destructed Console
+--
+	
+2022-11-02 13:05:23	Constructed Console	
+2022-11-02 13:05:23	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-02 13:05:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 13:05:23	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-02 13:05:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 13:05:23	Destructed Console
+--
+	
+2022-11-02 14:03:20	Constructed Console	
+2022-11-02 14:03:20	Error in soap call: 99999: Unknown user	
+2022-11-02 14:03:20	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:03:20	Destructed Console
+--
+	
+2022-11-02 14:03:52	Constructed Console	
+2022-11-02 14:03:52	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 14:03:52	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 14:03:52	Destructed Console
+--
+	
+2022-11-02 14:04:00	Constructed Console	
+2022-11-02 14:04:00	Error in soap call: 99999: Unknown user	
+2022-11-02 14:04:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:04:00	Destructed Console
+--
+	
+2022-11-02 14:05:06	Constructed Console	
+2022-11-02 14:05:06	Error in soap call: 99999: Unknown user	
+2022-11-02 14:05:06	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:05:06	Destructed Console
+--
+	
+2022-11-02 14:27:05	Constructed Console	
+2022-11-02 14:27:05	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Access token expired","status":401}]}
+	
+2022-11-02 14:27:05	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 14:27:05	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Access token expired","status":401}]}
+	
+2022-11-02 14:27:05	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 14:27:05	Destructed Console
+--
+	
+2022-11-02 14:50:47	Constructed Console	
+2022-11-02 14:50:47	Error in soap call: 99999: Unknown user	
+2022-11-02 14:50:47	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:50:47	Destructed Console
+--
+	
+2022-11-02 14:53:18	Constructed Console	
+2022-11-02 14:53:18	Error in soap call: 99999: Unknown user	
+2022-11-02 14:53:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:53:18	Destructed Console
+--
+	
+2022-11-02 14:55:58	Constructed Console	
+2022-11-02 14:55:58	Error in soap call: 99999: Unknown user	
+2022-11-02 14:55:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:55:58	Destructed Console
+--
+	
+2022-11-02 14:56:06	Constructed Console	
+2022-11-02 14:56:06	Error in soap call: 99999: Unknown user	
+2022-11-02 14:56:06	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:56:06	Destructed Console
+--
+	
+2022-11-02 14:56:10	Constructed Console	
+2022-11-02 14:56:10	Error in soap call: 99999: Unknown user	
+2022-11-02 14:56:10	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:56:10	Destructed Console
+--
+	
+2022-11-02 14:57:00	Constructed Console	
+2022-11-02 14:57:00	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 14:57:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 14:57:00	Destructed Console
+--
+	
+2022-11-02 14:57:12	Constructed Console	
+2022-11-02 14:57:12	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 14:57:12	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 14:57:12	Destructed Console
+--
+	
+2022-11-02 14:57:25	Constructed Console	
+2022-11-02 14:57:25	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 14:57:25	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 14:57:25	Destructed Console
+--
+	
+2022-11-02 14:57:29	Constructed Console	
+2022-11-02 14:57:29	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 14:57:29	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 14:57:29	Destructed Console
+--
+	
+2022-11-02 14:57:54	Constructed Console	
+2022-11-02 14:57:54	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 14:57:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 14:57:54	Destructed Console
+--
+	
+2022-11-02 14:58:00	Constructed Console	
+2022-11-02 14:58:00	Error in soap call: 99999: Unknown user	
+2022-11-02 14:58:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(9): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 14:58:00	Destructed Console
+--
+	
+2022-11-02 15:00:00	Constructed Console	
+2022-11-02 15:00:00	Error in soap call: 99999: Unknown user	
+2022-11-02 15:00:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(9): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 15:00:00	Destructed Console
+--
+	
+2022-11-02 15:55:01	Constructed Console	
+2022-11-02 15:55:01	Error in soap call: 99999: Unknown user	
+2022-11-02 15:55:01	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 15:55:01	Destructed Console
+--
+	
+2022-11-02 15:59:57	Constructed Console	
+2022-11-02 15:59:57	Error in soap call: 99999: Can not fetch Order with id null	
+2022-11-02 15:59:57	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(45): Tigron\Cp\Order::get_by_id(NULL)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#3 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#4 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-02 15:59:58	Destructed Console
+--
+	
+2022-11-02 15:59:58	Constructed Console	
+2022-11-02 15:59:58	Error in soap call: 99999: Unknown user	
+2022-11-02 15:59:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 15:59:58	Destructed Console
+--
+	
+2022-11-02 15:59:58	Constructed Console	
+2022-11-02 15:59:58	Error in soap call: 99999: Unknown user	
+2022-11-02 15:59:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 15:59:58	Destructed Console
+--
+	
+2022-11-02 15:59:58	Constructed Console	
+2022-11-02 15:59:58	Error in soap call: 99999: Unknown user	
+2022-11-02 15:59:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 15:59:58	Destructed Console
+--
+	
+2022-11-02 16:00:17	Constructed Console	
+2022-11-02 16:00:17	Error in soap call: 99999: Unknown user	
+2022-11-02 16:00:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 16:00:17	Destructed Console
+--
+	
+2022-11-02 16:00:18	Constructed Console	
+2022-11-02 16:00:18	Error in soap call: 99999: Unknown user	
+2022-11-02 16:00:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 16:00:18	Destructed Console
+--
+	
+2022-11-02 16:00:19	Constructed Console	
+2022-11-02 16:00:19	Error in soap call: 99999: Unknown user	
+2022-11-02 16:00:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 16:00:19	Destructed Console
+--
+	
+2022-11-02 16:03:30	Constructed Console	
+2022-11-02 16:03:30	Error in soap call: 99999: Unknown user	
+2022-11-02 16:03:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 16:03:30	Destructed Console
+--
+	
+2022-11-02 16:04:53	Constructed Console	
+2022-11-02 16:04:53	Error in soap call: 99999: Unknown user	
+2022-11-02 16:04:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/User.php(168): Tigron\Cp\Client\Soap->__call('info', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice/Queue.php(120): Tigron\Cp\User::get()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(8): Tigron\Cp\Invoice\Queue::get_all()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#4 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#5 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-02 16:04:53	Destructed Console
+--
+	
+2022-11-02 16:10:57	Constructed Console	
+2022-11-02 16:10:57	Error in soap call: 99999: Can not fetch Order with id null	
+2022-11-02 16:10:57	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(45): Tigron\Cp\Order::get_by_id(NULL)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#3 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#4 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-02 16:10:57	Destructed Console
+--
+	
+2022-11-02 16:11:47	Constructed Console	
+2022-11-02 16:11:47	Error in soap call: 99999: Can not fetch Order with id null	
+2022-11-02 16:11:47	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(45): Tigron\Cp\Order::get_by_id(NULL)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once('/Volumes/htdocs...')
+#3 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#4 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-02 16:11:47	Destructed Console
+--
+	
+2022-11-02 16:12:13	Constructed Console	
+2022-11-02 16:12:13	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:12:13	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:12:13	Destructed Console
+--
+	
+2022-11-02 16:14:07	Constructed Console	
+2022-11-02 16:14:07	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:14:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:14:07	Destructed Console
+--
+	
+2022-11-02 16:14:20	Constructed Console	
+2022-11-02 16:14:20	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:14:20	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:14:20	Destructed Console
+--
+	
+2022-11-02 16:28:33	Constructed Console	
+2022-11-02 16:28:33	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:28:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:28:33	Destructed Console
+--
+	
+2022-11-02 16:31:36	Constructed Console	
+2022-11-02 16:31:36	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:31:36	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:31:36	Destructed Console
+--
+	
+2022-11-02 16:31:37	Constructed Console	
+2022-11-02 16:31:37	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:31:37	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:31:37	Destructed Console
+--
+	
+2022-11-02 16:31:37	Constructed Console	
+2022-11-02 16:31:37	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:31:37	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:31:37	Destructed Console
+--
+	
+2022-11-02 16:31:37	Constructed Console	
+2022-11-02 16:31:37	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:31:37	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:31:37	Destructed Console
+--
+	
+2022-11-02 16:40:47	Constructed Console	
+2022-11-02 16:40:47	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-02 16:40:47	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 16:40:47	Destructed Console
+--
+	
+2022-11-02 17:00:46	Constructed Console	
+2022-11-02 17:00:46	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-02 17:00:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_id('25592')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-02 17:00:46	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-02 17:00:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_id('25592')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-02 17:00:46	Destructed Console
+--
+	
+2022-11-02 17:06:48	Constructed Console	
+2022-11-02 17:06:48	Error in soap call: 99999: Call to undefined method Invoice::get_by_user()	
+2022-11-02 17:06:48	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(140): Tigron\Cp\Client\Soap->__call('get_by_user', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_user(Object(Tigron\Cp\User))
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-02 17:06:48	Error in soap call: 99999: Call to undefined method Invoice::get_by_user()	
+2022-11-02 17:06:48	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(140): Tigron\Cp\Client\Soap->__call('get_by_user', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_user(Object(Tigron\Cp\User))
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-02 17:06:48	Destructed Console
+--
+	
+2022-11-02 17:22:26	Constructed Console	
+2022-11-02 17:22:26	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Access token expired","status":401}]}
+	
+2022-11-02 17:22:26	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 17:22:26	Client error: `GET https://api.focus.teamleader.eu/companies.list` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Access token expired","status":401}]}
+	
+2022-11-02 17:22:26	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Teamleader/Controller/Teamleader.php(89): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#14 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#15 {main}	
+2022-11-02 17:22:26	Destructed Console
+--
+	

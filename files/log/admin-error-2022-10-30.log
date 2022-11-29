@@ -1,0 +1,74 @@
+2022-10-30 11:08:51	Constructed Console	
+2022-10-30 11:08:51	syntax error, unexpected ')'	
+2022-10-30 11:08:51	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tea...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tea...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Te...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Te...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-10-30 11:08:51	Destructed Console
+--
+	
+2022-10-30 11:11:42	Constructed Console	
+2022-10-30 11:11:42	syntax error, unexpected '}'	
+2022-10-30 11:11:42	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tea...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tea...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Te...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Te...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-10-30 11:11:42	Destructed Console
+--
+	
+2022-10-30 11:18:48	Constructed Console	
+2022-10-30 11:18:48	Call to a member function getName() on null	
+2022-10-30 11:18:48	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->names()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-30 11:18:48	Call to a member function getName() on null	
+2022-10-30 11:18:48	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->names()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-30 11:18:48	Destructed Console
+--
+	
+2022-10-30 11:21:08	Constructed Console	
+2022-10-30 11:21:08	Call to a member function getIdOfLocalizedText() on null	
+2022-10-30 11:21:08	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->names()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-30 11:21:08	Call to a member function getIdOfLocalizedText() on null	
+2022-10-30 11:21:08	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->names()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-30 11:21:08	Destructed Console
+--
+	
+2022-10-30 11:23:44	Constructed Console	
+2022-10-30 11:23:44	Call to undefined method App\Teamleader\TeamleaderCredentials::getName()	
+2022-10-30 11:23:44	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->names()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-30 11:23:44	Call to undefined method App\Teamleader\TeamleaderCredentials::getName()	
+2022-10-30 11:23:44	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->names()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-30 11:23:44	Destructed Console
+--
+	

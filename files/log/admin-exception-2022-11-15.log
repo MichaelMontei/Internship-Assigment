@@ -1,0 +1,810 @@
+2022-11-15 10:45:04	Constructed Console	
+2022-11-15 10:45:04	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people?page=1	
+2022-11-15 10:45:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(60): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(35): Main\Module\Starwars\Controller\Starwars->getData(1)
+#15 [internal function]: Main\Module\Starwars\Controller\Starwars->sync()
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#17 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#18 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#19 {main}	
+2022-11-15 10:45:04	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people?page=1	
+2022-11-15 10:45:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(60): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(35): Main\Module\Starwars\Controller\Starwars->getData(1)
+#15 [internal function]: Main\Module\Starwars\Controller\Starwars->sync()
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#17 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#18 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#19 {main}	
+2022-11-15 10:45:04	Destructed Console
+--
+	
+2022-11-15 10:45:32	Constructed Console	
+2022-11-15 10:45:32	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people?page=1	
+2022-11-15 10:45:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(60): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(35): Main\Module\Starwars\Controller\Starwars->getData(1)
+#15 [internal function]: Main\Module\Starwars\Controller\Starwars->sync()
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#17 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#18 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#19 {main}	
+2022-11-15 10:45:32	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people?page=1	
+2022-11-15 10:45:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(60): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(35): Main\Module\Starwars\Controller\Starwars->getData(1)
+#15 [internal function]: Main\Module\Starwars\Controller\Starwars->sync()
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#17 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#18 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#19 {main}	
+2022-11-15 10:45:32	Destructed Console
+--
+	
+2022-11-15 10:47:51	Constructed Console	
+2022-11-15 10:47:51	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:47:51	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(68): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 10:47:51	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:47:51	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(68): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 10:47:51	Destructed Console
+--
+	
+2022-11-15 10:48:41	Constructed Console	
+2022-11-15 10:48:41	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:48:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(69): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 10:48:41	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:48:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(69): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 10:48:41	Destructed Console
+--
+	
+2022-11-15 10:49:21	Constructed Console	
+2022-11-15 10:49:21	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:49:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(102): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(73): GuzzleHttp\RedirectMiddleware->checkRedirect(Object(GuzzleHttp\Psr7\Request), Array, Object(GuzzleHttp\Psr7\Response))
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/FulfilledPromise.php(41): GuzzleHttp\RedirectMiddleware->GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\FulfilledPromise::GuzzleHttp\Promise\{closure}()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#17 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#18 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(69): GuzzleHttp\Client->request('GET', 'http://swapi.de...')
+#19 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#20 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#21 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#22 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#23 {main}	
+2022-11-15 10:49:21	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:49:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(102): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(73): GuzzleHttp\RedirectMiddleware->checkRedirect(Object(GuzzleHttp\Psr7\Request), Array, Object(GuzzleHttp\Psr7\Response))
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/FulfilledPromise.php(41): GuzzleHttp\RedirectMiddleware->GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\FulfilledPromise::GuzzleHttp\Promise\{closure}()
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#17 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#18 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(69): GuzzleHttp\Client->request('GET', 'http://swapi.de...')
+#19 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#20 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#21 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#22 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#23 {main}	
+2022-11-15 10:49:21	Destructed Console
+--
+	
+2022-11-15 10:56:40	Constructed Console	
+2022-11-15 10:56:40	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:56:40	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(70): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 10:56:40	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:56:40	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(70): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 10:56:40	Destructed Console
+--
+	
+2022-11-15 10:59:19	Constructed Console	
+2022-11-15 10:59:19	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:59:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(70): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 10:59:19	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 10:59:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(70): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 10:59:19	Destructed Console
+--
+	
+2022-11-15 11:00:54	Constructed Console	
+2022-11-15 11:00:54	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 11:00:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(70): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 11:00:54	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 11:00:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(70): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 11:00:54	Destructed Console
+--
+	
+2022-11-15 11:37:24	Constructed Console	
+2022-11-15 11:37:24	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 11:37:24	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(70): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 11:37:24	cURL error 60: SSL certificate problem: certificate has expired (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://swapi.dev/api/people	
+2022-11-15 11:37:24	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(167): GuzzleHttp\Handler\CurlFactory::createRejection(Object(GuzzleHttp\Handler\EasyHandle), Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php(114): GuzzleHttp\Handler\CurlFactory::finishError(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php(47): GuzzleHttp\Handler\CurlFactory::finish(Object(GuzzleHttp\Handler\CurlHandler), Object(GuzzleHttp\Handler\EasyHandle), Object(GuzzleHttp\Handler\CurlFactory))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(32): GuzzleHttp\Handler\CurlHandler->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php(55): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php(35): GuzzleHttp\Handler\Proxy::GuzzleHttp\Handler\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(30): GuzzleHttp\PrepareBodyMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php(71): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(60): GuzzleHttp\RedirectMiddleware->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/HandlerStack.php(75): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Request), Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(330): GuzzleHttp\HandlerStack->__invoke(Object(GuzzleHttp\Psr7\Request), Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(167): GuzzleHttp\Client->transfer(Object(GuzzleHttp\Psr7\Request), Array)
+#12 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Client->requestAsync('GET', Object(GuzzleHttp\Psr7\Uri), Array)
+#13 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(70): GuzzleHttp\Client->request('GET', 'https://swapi.d...')
+#14 [internal function]: Main\Module\Starwars\Controller\Starwars->test()
+#15 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#16 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#17 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#18 {main}	
+2022-11-15 11:37:24	Destructed Console
+--
+	
+2022-11-15 13:42:34	Constructed Console	
+2022-11-15 13:42:34	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Access token expired","status":401}]}
+	
+2022-11-15 13:42:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(112): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(29): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-15 13:42:34	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Access token expired","status":401}]}
+	
+2022-11-15 13:42:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(112): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(29): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-15 13:42:34	Destructed Console
+--
+	
+2022-11-15 13:46:24	Constructed Console	
+2022-11-15 13:46:24	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Access token expired","status":401}]}
+	
+2022-11-15 13:46:24	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(112): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(29): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-15 13:46:24	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Access token expired","status":401}]}
+	
+2022-11-15 13:46:24	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(112): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(29): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-15 13:46:24	Destructed Console
+--
+	
+2022-11-15 13:59:58	Constructed Console	
+2022-11-15 13:59:58	Cannot render view; Missing required variable [starwars]	
+2022-11-15 13:59:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(31): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 13:59:58	Cannot render view; Missing required variable [starwars]	
+2022-11-15 13:59:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(31): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 13:59:58	Destructed Console
+--
+	
+2022-11-15 14:02:16	Constructed Console	
+2022-11-15 14:02:16	Cannot render view; Missing required variable [starwars]	
+2022-11-15 14:02:16	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(31): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 14:02:16	Cannot render view; Missing required variable [starwars]	
+2022-11-15 14:02:16	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(31): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 14:02:16	Destructed Console
+--
+	
+2022-11-15 14:02:17	Constructed Console	
+2022-11-15 14:02:17	Cannot render view; Missing required variable [starwars]	
+2022-11-15 14:02:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(31): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 14:02:17	Cannot render view; Missing required variable [starwars]	
+2022-11-15 14:02:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(31): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 14:02:17	Destructed Console
+--
+	
+2022-11-15 14:59:48	Constructed Console	
+2022-11-15 14:59:48	Cannot render view; Missing required variable [sync]	
+2022-11-15 14:59:48	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 14:59:48	Cannot render view; Missing required variable [sync]	
+2022-11-15 14:59:48	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 14:59:48	Destructed Console
+--
+	
+2022-11-15 15:00:17	Constructed Console	
+2022-11-15 15:00:17	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:00:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:00:17	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:00:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:00:17	Destructed Console
+--
+	
+2022-11-15 15:00:18	Constructed Console	
+2022-11-15 15:00:18	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:00:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:00:18	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:00:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:00:18	Destructed Console
+--
+	
+2022-11-15 15:00:36	Constructed Console	
+2022-11-15 15:00:36	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:00:36	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:00:36	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:00:36	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:00:36	Destructed Console
+--
+	
+2022-11-15 15:02:14	Constructed Console	
+2022-11-15 15:02:14	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:02:14	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:02:14	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:02:14	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:02:14	Destructed Console
+--
+	
+2022-11-15 15:02:49	Constructed Console	
+2022-11-15 15:02:49	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:02:49	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:02:49	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:02:49	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:02:49	Destructed Console
+--
+	
+2022-11-15 15:02:50	Constructed Console	
+2022-11-15 15:02:50	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:02:50	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:02:50	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:02:50	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:02:50	Destructed Console
+--
+	
+2022-11-15 15:02:50	Constructed Console	
+2022-11-15 15:02:50	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:02:50	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:02:50	Cannot render view; Missing required variable [sync]	
+2022-11-15 15:02:50	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(38): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:02:50	Destructed Console
+--
+	
+2022-11-15 15:52:16	Constructed Console	
+2022-11-15 15:52:16	Cannot render view; Missing required variable []	
+2022-11-15 15:52:16	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(37): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:52:16	Cannot render view; Missing required variable []	
+2022-11-15 15:52:16	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(408): M\View\View->_getVariablesArray()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(344): M\View\View->_getTemplateWithVariables()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(165): M\View\View->_getTemplateWrapper()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(37): M\View\View->display()
+#5 [internal function]: Main\Module\Sync\Controller\Sync->index()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-15 15:52:16	Destructed Console
+--
+	

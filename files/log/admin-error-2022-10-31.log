@@ -1,0 +1,126 @@
+2022-10-31 09:42:48	Constructed Console	
+2022-10-31 09:42:48	syntax error, unexpected 'public' (T_PUBLIC), expecting end of file	
+2022-10-31 09:42:48	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tea...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tea...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Te...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Te...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-10-31 09:42:48	Destructed Console
+--
+	
+2022-10-31 09:49:35	Constructed Console	
+2022-10-31 09:49:35	Cannot use object of type GuzzleHttp\Psr7\Response as array	
+2022-10-31 09:49:35	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-31 09:49:35	Cannot use object of type GuzzleHttp\Psr7\Response as array	
+2022-10-31 09:49:35	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-31 09:49:35	Destructed Console
+--
+	
+2022-10-31 09:52:32	Constructed Console	
+2022-10-31 09:52:32	syntax error, unexpected '=>' (T_DOUBLE_ARROW)	
+2022-10-31 09:52:32	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tea...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tea...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Te...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Te...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-10-31 09:52:32	Destructed Console
+--
+	
+2022-10-31 09:58:58	Constructed Console	
+2022-10-31 09:58:58	Function name must be a string	
+2022-10-31 09:58:58	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-31 09:58:58	Function name must be a string	
+2022-10-31 09:58:58	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-31 09:58:58	Destructed Console
+--
+	
+2022-10-31 10:05:32	Constructed Console	
+2022-10-31 10:05:32	Call to a member function getValue() on null	
+2022-10-31 10:05:32	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-31 10:05:32	Call to a member function getValue() on null	
+2022-10-31 10:05:32	#0 [internal function]: Main\Module\Teamleader\Controller\Teamleader->companies()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-10-31 10:05:32	Destructed Console
+--
+	
+2022-10-31 10:53:42	Constructed Console	
+2022-10-31 10:53:42	syntax error, unexpected '}', expecting end of file	
+2022-10-31 10:53:42	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tea...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tea...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Te...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Te...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-10-31 10:53:42	Destructed Console
+--
+	
+2022-10-31 12:46:33	Constructed Console	
+2022-10-31 12:46:33	syntax error, unexpected 'public' (T_PUBLIC), expecting end of file	
+2022-10-31 12:46:33	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tea...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tea...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Te...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Te...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-10-31 12:46:33	Destructed Console
+--
+	
+2022-10-31 12:47:00	Constructed Console	
+2022-10-31 12:47:00	syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)	
+2022-10-31 12:47:00	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tea...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tea...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Te...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Te...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-10-31 12:47:00	Destructed Console
+--
+	
+2022-10-31 15:47:39	Constructed Console	
+2022-10-31 15:47:39	syntax error, unexpected ';'	
+2022-10-31 15:47:39	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tea...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tea...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Te...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Te...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-10-31 15:47:39	Destructed Console
+--
+	

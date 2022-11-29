@@ -1,0 +1,1416 @@
+2022-11-19 11:10:24	Constructed Console	
+2022-11-19 11:10:24	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:10:24	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:10:24	Destructed Console
+--
+	
+2022-11-19 11:10:42	Constructed Console	
+2022-11-19 11:10:42	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:10:42	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:10:42	Destructed Console
+--
+	
+2022-11-19 11:10:42	Constructed Console	
+2022-11-19 11:10:42	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:10:42	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:10:42	Destructed Console
+--
+	
+2022-11-19 11:10:43	Constructed Console	
+2022-11-19 11:10:43	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:10:43	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:10:43	Destructed Console
+--
+	
+2022-11-19 11:10:44	Constructed Console	
+2022-11-19 11:10:44	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:10:44	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:10:44	Destructed Console
+--
+	
+2022-11-19 11:10:49	Constructed Console	
+2022-11-19 11:10:49	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:10:49	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:10:49	Destructed Console
+--
+	
+2022-11-19 11:11:14	Constructed Console	
+2022-11-19 11:11:14	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:11:14	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:11:14	Destructed Console
+--
+	
+2022-11-19 11:12:13	Constructed Console	
+2022-11-19 11:12:13	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:12:13	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:12:13	Destructed Console
+--
+	
+2022-11-19 11:12:34	Constructed Console	
+2022-11-19 11:12:34	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:12:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:12:34	Destructed Console
+--
+	
+2022-11-19 11:12:38	Constructed Console	
+2022-11-19 11:12:38	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:12:38	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:12:38	Destructed Console
+--
+	
+2022-11-19 11:12:39	Constructed Console	
+2022-11-19 11:12:39	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:12:39	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:12:39	Destructed Console
+--
+	
+2022-11-19 11:14:06	Constructed Console	
+2022-11-19 11:14:06	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:14:06	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:14:06	Destructed Console
+--
+	
+2022-11-19 11:14:34	Constructed Console	
+2022-11-19 11:14:34	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:14:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:14:34	Destructed Console
+--
+	
+2022-11-19 11:15:26	Constructed Console	
+2022-11-19 11:15:26	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:15:26	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:15:26	Destructed Console
+--
+	
+2022-11-19 11:15:32	Constructed Console	
+2022-11-19 11:15:32	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:15:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:15:32	Destructed Console
+--
+	
+2022-11-19 11:15:32	Constructed Console	
+2022-11-19 11:15:32	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:15:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:15:32	Destructed Console
+--
+	
+2022-11-19 11:16:19	Constructed Console	
+2022-11-19 11:16:19	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:16:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:16:19	Destructed Console
+--
+	
+2022-11-19 11:16:20	Constructed Console	
+2022-11-19 11:16:20	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:16:20	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:16:20	Destructed Console
+--
+	
+2022-11-19 11:16:41	Constructed Console	
+2022-11-19 11:16:41	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:16:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:16:41	Destructed Console
+--
+	
+2022-11-19 11:16:42	Constructed Console	
+2022-11-19 11:16:42	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:16:42	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:16:42	Destructed Console
+--
+	
+2022-11-19 11:17:07	Constructed Console	
+2022-11-19 11:17:07	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:17:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:17:07	Destructed Console
+--
+	
+2022-11-19 11:17:07	Constructed Console	
+2022-11-19 11:17:07	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:17:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:17:07	Destructed Console
+--
+	
+2022-11-19 11:17:21	Constructed Console	
+2022-11-19 11:17:21	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:17:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:17:21	Destructed Console
+--
+	
+2022-11-19 11:17:45	Constructed Console	
+2022-11-19 11:17:45	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:17:45	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:17:45	Destructed Console
+--
+	
+2022-11-19 11:17:47	Constructed Console	
+2022-11-19 11:17:47	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:17:47	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:17:47	Destructed Console
+--
+	
+2022-11-19 11:17:47	Constructed Console	
+2022-11-19 11:17:47	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:17:47	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:17:47	Destructed Console
+--
+	
+2022-11-19 11:17:49	Constructed Console	
+2022-11-19 11:17:49	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:17:49	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:17:49	Destructed Console
+--
+	
+2022-11-19 11:17:49	Constructed Console	
+2022-11-19 11:17:49	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:17:49	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:17:49	Destructed Console
+--
+	
+2022-11-19 11:18:04	Constructed Console	
+2022-11-19 11:18:04	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:18:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:04	Destructed Console
+--
+	
+2022-11-19 11:18:04	Constructed Console	
+2022-11-19 11:18:04	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:18:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:04	Destructed Console
+--
+	
+2022-11-19 11:18:22	Constructed Console	
+2022-11-19 11:18:22	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:18:22	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:22	Destructed Console
+--
+	
+2022-11-19 11:18:22	Constructed Console	
+2022-11-19 11:18:22	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:18:22	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:22	Destructed Console
+--
+	
+2022-11-19 11:18:23	Constructed Console	
+2022-11-19 11:18:23	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:18:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:23	Destructed Console
+--
+	
+2022-11-19 11:18:23	Constructed Console	
+2022-11-19 11:18:23	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:18:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:23	Destructed Console
+--
+	
+2022-11-19 11:18:23	Constructed Console	
+2022-11-19 11:18:23	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:18:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:23	Destructed Console
+--
+	
+2022-11-19 11:18:23	Constructed Console	
+2022-11-19 11:18:23	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:18:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:23	Destructed Console
+--
+	
+2022-11-19 11:18:42	Constructed Console	
+2022-11-19 11:18:42	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:18:42	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:42	Destructed Console
+--
+	
+2022-11-19 11:18:42	Constructed Console	
+2022-11-19 11:18:42	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:18:42	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:18:42	Destructed Console
+--
+	
+2022-11-19 11:19:07	Constructed Console	
+2022-11-19 11:19:07	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:19:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:19:07	Destructed Console
+--
+	
+2022-11-19 11:19:07	Constructed Console	
+2022-11-19 11:19:07	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:19:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:19:07	Destructed Console
+--
+	
+2022-11-19 11:19:37	Constructed Console	
+2022-11-19 11:19:37	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:19:37	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:19:37	Destructed Console
+--
+	
+2022-11-19 11:19:37	Constructed Console	
+2022-11-19 11:19:37	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:19:37	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:19:37	Destructed Console
+--
+	
+2022-11-19 11:19:38	Constructed Console	
+2022-11-19 11:19:38	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:19:38	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:19:38	Destructed Console
+--
+	
+2022-11-19 11:19:38	Constructed Console	
+2022-11-19 11:19:38	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:19:38	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:19:38	Destructed Console
+--
+	
+2022-11-19 11:19:49	Constructed Console	
+2022-11-19 11:19:49	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:19:49	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:19:49	Destructed Console
+--
+	
+2022-11-19 11:19:49	Constructed Console	
+2022-11-19 11:19:49	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:19:49	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:19:49	Destructed Console
+--
+	
+2022-11-19 11:20:35	Constructed Console	
+2022-11-19 11:20:35	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:20:35	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:20:35	Destructed Console
+--
+	
+2022-11-19 11:20:35	Constructed Console	
+2022-11-19 11:20:35	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:20:35	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:20:35	Destructed Console
+--
+	
+2022-11-19 11:20:53	Constructed Console	
+2022-11-19 11:20:53	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:20:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:20:53	Destructed Console
+--
+	
+2022-11-19 11:20:53	Constructed Console	
+2022-11-19 11:20:53	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:20:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:20:53	Destructed Console
+--
+	
+2022-11-19 11:23:35	Constructed Console	
+2022-11-19 11:23:35	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:23:35	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:23:35	Destructed Console
+--
+	
+2022-11-19 11:23:35	Constructed Console	
+2022-11-19 11:23:35	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:23:35	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:23:35	Destructed Console
+--
+	
+2022-11-19 11:23:53	Constructed Console	
+2022-11-19 11:23:53	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:23:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:23:53	Destructed Console
+--
+	
+2022-11-19 11:23:53	Constructed Console	
+2022-11-19 11:23:53	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:23:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:23:53	Destructed Console
+--
+	
+2022-11-19 11:24:15	Constructed Console	
+2022-11-19 11:24:15	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:24:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:24:15	Destructed Console
+--
+	
+2022-11-19 11:24:15	Constructed Console	
+2022-11-19 11:24:15	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:24:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:24:15	Destructed Console
+--
+	
+2022-11-19 11:24:34	Constructed Console	
+2022-11-19 11:24:34	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:24:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:24:34	Destructed Console
+--
+	
+2022-11-19 11:24:34	Constructed Console	
+2022-11-19 11:24:34	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:24:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:24:34	Destructed Console
+--
+	
+2022-11-19 11:24:46	Constructed Console	
+2022-11-19 11:24:46	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:24:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:24:46	Destructed Console
+--
+	
+2022-11-19 11:24:46	Constructed Console	
+2022-11-19 11:24:46	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:24:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:24:46	Destructed Console
+--
+	
+2022-11-19 11:25:27	Constructed Console	
+2022-11-19 11:25:27	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:25:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:25:27	Destructed Console
+--
+	
+2022-11-19 11:25:27	Constructed Console	
+2022-11-19 11:25:27	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:25:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:25:27	Destructed Console
+--
+	
+2022-11-19 11:26:07	Constructed Console	
+2022-11-19 11:26:07	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:26:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:07	Destructed Console
+--
+	
+2022-11-19 11:26:07	Constructed Console	
+2022-11-19 11:26:07	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:26:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:07	Destructed Console
+--
+	
+2022-11-19 11:26:27	Constructed Console	
+2022-11-19 11:26:27	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:26:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:27	Destructed Console
+--
+	
+2022-11-19 11:26:27	Constructed Console	
+2022-11-19 11:26:27	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:26:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:27	Destructed Console
+--
+	
+2022-11-19 11:26:40	Constructed Console	
+2022-11-19 11:26:40	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:26:40	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:40	Destructed Console
+--
+	
+2022-11-19 11:26:40	Constructed Console	
+2022-11-19 11:26:40	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:26:40	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:40	Destructed Console
+--
+	
+2022-11-19 11:26:40	Constructed Console	
+2022-11-19 11:26:40	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:26:40	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:40	Destructed Console
+--
+	
+2022-11-19 11:26:40	Constructed Console	
+2022-11-19 11:26:40	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:26:40	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:40	Destructed Console
+--
+	
+2022-11-19 11:26:41	Constructed Console	
+2022-11-19 11:26:41	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:26:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:41	Destructed Console
+--
+	
+2022-11-19 11:26:41	Constructed Console	
+2022-11-19 11:26:41	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:26:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:41	Destructed Console
+--
+	
+2022-11-19 11:26:53	Constructed Console	
+2022-11-19 11:26:53	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:26:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:53	Destructed Console
+--
+	
+2022-11-19 11:26:53	Constructed Console	
+2022-11-19 11:26:53	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:26:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:53	Destructed Console
+--
+	
+2022-11-19 11:26:54	Constructed Console	
+2022-11-19 11:26:54	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:26:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:54	Destructed Console
+--
+	
+2022-11-19 11:26:54	Constructed Console	
+2022-11-19 11:26:54	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:26:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:26:54	Destructed Console
+--
+	
+2022-11-19 11:27:04	Constructed Console	
+2022-11-19 11:27:04	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:27:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:27:04	Destructed Console
+--
+	
+2022-11-19 11:27:04	Constructed Console	
+2022-11-19 11:27:04	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:27:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:27:04	Destructed Console
+--
+	
+2022-11-19 11:27:04	Constructed Console	
+2022-11-19 11:27:04	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:27:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:27:04	Destructed Console
+--
+	
+2022-11-19 11:27:04	Constructed Console	
+2022-11-19 11:27:04	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:27:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:27:04	Destructed Console
+--
+	
+2022-11-19 11:27:05	Constructed Console	
+2022-11-19 11:27:05	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:27:05	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:27:05	Destructed Console
+--
+	
+2022-11-19 11:27:05	Constructed Console	
+2022-11-19 11:27:05	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:27:05	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:27:05	Destructed Console
+--
+	
+2022-11-19 11:27:15	Constructed Console	
+2022-11-19 11:27:15	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:27:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:27:15	Destructed Console
+--
+	
+2022-11-19 11:27:15	Constructed Console	
+2022-11-19 11:27:15	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:27:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:27:15	Destructed Console
+--
+	
+2022-11-19 11:28:41	Constructed Console	
+2022-11-19 11:28:41	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:28:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:28:41	Destructed Console
+--
+	
+2022-11-19 11:28:42	Constructed Console	
+2022-11-19 11:28:42	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:28:42	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:28:42	Destructed Console
+--
+	
+2022-11-19 11:28:56	Constructed Console	
+2022-11-19 11:28:56	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:28:56	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:28:56	Destructed Console
+--
+	
+2022-11-19 11:28:56	Constructed Console	
+2022-11-19 11:28:56	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:28:56	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:28:56	Destructed Console
+--
+	
+2022-11-19 11:29:08	Constructed Console	
+2022-11-19 11:29:08	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:29:08	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:29:08	Destructed Console
+--
+	
+2022-11-19 11:29:08	Constructed Console	
+2022-11-19 11:29:08	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:29:08	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:29:08	Destructed Console
+--
+	
+2022-11-19 11:30:04	Constructed Console	
+2022-11-19 11:30:04	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:30:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:30:04	Destructed Console
+--
+	
+2022-11-19 11:30:04	Constructed Console	
+2022-11-19 11:30:04	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:30:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:30:04	Destructed Console
+--
+	
+2022-11-19 11:30:17	Constructed Console	
+2022-11-19 11:30:17	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:30:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:30:17	Destructed Console
+--
+	
+2022-11-19 11:30:17	Constructed Console	
+2022-11-19 11:30:17	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:30:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:30:17	Destructed Console
+--
+	
+2022-11-19 11:30:33	Constructed Console	
+2022-11-19 11:30:33	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:30:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:30:33	Destructed Console
+--
+	
+2022-11-19 11:30:33	Constructed Console	
+2022-11-19 11:30:33	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:30:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:30:33	Destructed Console
+--
+	
+2022-11-19 11:30:59	Constructed Console	
+2022-11-19 11:30:59	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:30:59	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:30:59	Destructed Console
+--
+	
+2022-11-19 11:30:59	Constructed Console	
+2022-11-19 11:30:59	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:30:59	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:30:59	Destructed Console
+--
+	
+2022-11-19 11:31:00	Constructed Console	
+2022-11-19 11:31:00	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:31:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:31:00	Destructed Console
+--
+	
+2022-11-19 11:31:00	Constructed Console	
+2022-11-19 11:31:00	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:31:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:31:00	Destructed Console
+--
+	
+2022-11-19 11:31:45	Constructed Console	
+2022-11-19 11:31:45	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:31:45	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:31:45	Destructed Console
+--
+	
+2022-11-19 11:31:45	Constructed Console	
+2022-11-19 11:31:45	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:31:45	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:31:45	Destructed Console
+--
+	
+2022-11-19 11:31:46	Constructed Console	
+2022-11-19 11:31:46	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:31:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:31:46	Destructed Console
+--
+	
+2022-11-19 11:31:46	Constructed Console	
+2022-11-19 11:31:46	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:31:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:31:46	Destructed Console
+--
+	
+2022-11-19 11:32:03	Constructed Console	
+2022-11-19 11:32:03	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:32:03	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:32:03	Destructed Console
+--
+	
+2022-11-19 11:32:04	Constructed Console	
+2022-11-19 11:32:04	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:32:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:32:04	Destructed Console
+--
+	
+2022-11-19 11:32:19	Constructed Console	
+2022-11-19 11:32:19	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:32:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:32:19	Destructed Console
+--
+	
+2022-11-19 11:32:19	Constructed Console	
+2022-11-19 11:32:19	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:32:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:32:19	Destructed Console
+--
+	
+2022-11-19 11:32:33	Constructed Console	
+2022-11-19 11:32:33	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:32:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:32:33	Destructed Console
+--
+	
+2022-11-19 11:32:34	Constructed Console	
+2022-11-19 11:32:34	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:32:34	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:32:34	Destructed Console
+--
+	
+2022-11-19 11:33:57	Constructed Console	
+2022-11-19 11:33:57	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:33:57	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:33:57	Destructed Console
+--
+	
+2022-11-19 11:33:57	Constructed Console	
+2022-11-19 11:33:57	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:33:57	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:33:57	Destructed Console
+--
+	
+2022-11-19 11:33:58	Constructed Console	
+2022-11-19 11:33:58	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:33:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:33:58	Destructed Console
+--
+	
+2022-11-19 11:33:58	Constructed Console	
+2022-11-19 11:33:58	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:33:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:33:58	Destructed Console
+--
+	
+2022-11-19 11:34:02	Constructed Console	
+2022-11-19 11:34:02	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:34:02	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:34:02	Destructed Console
+--
+	
+2022-11-19 11:34:05	Constructed Console	
+2022-11-19 11:34:05	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:34:05	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:34:05	Destructed Console
+--
+	
+2022-11-19 11:34:05	Constructed Console	
+2022-11-19 11:34:05	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:34:05	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:34:05	Destructed Console
+--
+	
+2022-11-19 11:36:23	Constructed Console	
+2022-11-19 11:36:23	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:36:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:36:23	Destructed Console
+--
+	
+2022-11-19 11:36:51	Constructed Console	
+2022-11-19 11:36:51	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:36:51	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:36:51	Destructed Console
+--
+	
+2022-11-19 11:38:15	Constructed Console	
+2022-11-19 11:38:15	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:38:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:38:15	Destructed Console
+--
+	
+2022-11-19 11:38:40	Constructed Console	
+2022-11-19 11:38:40	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:38:40	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:38:40	Destructed Console
+--
+	
+2022-11-19 11:39:36	Constructed Console	
+2022-11-19 11:39:36	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:39:36	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:39:36	Destructed Console
+--
+	
+2022-11-19 11:45:56	Constructed Console	
+2022-11-19 11:45:56	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:45:56	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:45:56	Destructed Console
+--
+	
+2022-11-19 11:48:59	Constructed Console	
+2022-11-19 11:48:59	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:48:59	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:48:59	Destructed Console
+--
+	
+2022-11-19 11:49:20	Constructed Console	
+2022-11-19 11:49:20	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:49:20	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:49:20	Destructed Console
+--
+	
+2022-11-19 11:51:25	Constructed Console	
+2022-11-19 11:51:25	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:51:25	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:51:25	Destructed Console
+--
+	
+2022-11-19 11:51:53	Constructed Console	
+2022-11-19 11:51:53	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:51:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:51:53	Destructed Console
+--
+	
+2022-11-19 11:52:43	Constructed Console	
+2022-11-19 11:52:43	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:52:43	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:52:43	Destructed Console
+--
+	
+2022-11-19 11:53:21	Constructed Console	
+2022-11-19 11:53:21	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:53:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:53:21	Destructed Console
+--
+	
+2022-11-19 11:54:05	Constructed Console	
+2022-11-19 11:54:05	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:54:05	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:54:05	Destructed Console
+--
+	
+2022-11-19 11:59:15	Constructed Console	
+2022-11-19 11:59:15	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:59:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:59:15	Destructed Console
+--
+	
+2022-11-19 11:59:15	Constructed Console	
+2022-11-19 11:59:15	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:59:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:59:15	Destructed Console
+--
+	
+2022-11-19 11:59:17	Constructed Console	
+2022-11-19 11:59:17	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:59:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:59:17	Destructed Console
+--
+	
+2022-11-19 11:59:27	Constructed Console	
+2022-11-19 11:59:27	Unable to construct Controller with path js/invoice.js	
+2022-11-19 11:59:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:59:27	Destructed Console
+--
+	
+2022-11-19 11:59:27	Constructed Console	
+2022-11-19 11:59:27	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:59:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:59:27	Destructed Console
+--
+	
+2022-11-19 11:59:30	Constructed Console	
+2022-11-19 11:59:30	Unable to construct Controller with path favicon.ico	
+2022-11-19 11:59:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 11:59:30	Destructed Console
+--
+	
+2022-11-19 12:00:00	Constructed Console	
+2022-11-19 12:00:00	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:00:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:00:00	Destructed Console
+--
+	
+2022-11-19 12:00:07	Constructed Console	
+2022-11-19 12:00:07	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:00:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:00:07	Destructed Console
+--
+	
+2022-11-19 12:00:24	Constructed Console	
+2022-11-19 12:00:24	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:00:24	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:00:24	Destructed Console
+--
+	
+2022-11-19 12:00:43	Constructed Console	
+2022-11-19 12:00:43	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:00:43	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:00:43	Destructed Console
+--
+	
+2022-11-19 12:00:44	Constructed Console	
+2022-11-19 12:00:44	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:00:44	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:00:44	Destructed Console
+--
+	
+2022-11-19 12:02:29	Constructed Console	
+2022-11-19 12:02:29	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:02:29	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:02:29	Destructed Console
+--
+	
+2022-11-19 12:02:30	Constructed Console	
+2022-11-19 12:02:30	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:02:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:02:30	Destructed Console
+--
+	
+2022-11-19 12:02:30	Constructed Console	
+2022-11-19 12:02:30	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:02:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:02:30	Destructed Console
+--
+	
+2022-11-19 12:02:54	Constructed Console	
+2022-11-19 12:02:54	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:02:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:02:54	Destructed Console
+--
+	
+2022-11-19 12:03:07	Constructed Console	
+2022-11-19 12:03:07	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:03:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:03:07	Destructed Console
+--
+	
+2022-11-19 12:03:14	Constructed Console	
+2022-11-19 12:03:14	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:03:14	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:03:14	Destructed Console
+--
+	
+2022-11-19 12:03:45	Constructed Console	
+2022-11-19 12:03:45	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:03:45	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:03:45	Destructed Console
+--
+	
+2022-11-19 12:05:28	Constructed Console	
+2022-11-19 12:05:28	Method index not compliant	
+2022-11-19 12:05:28	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:05:28	Destructed Console
+--
+	
+2022-11-19 12:05:28	Constructed Console	
+2022-11-19 12:05:28	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:05:28	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:05:28	Destructed Console
+--
+	
+2022-11-19 12:05:32	Constructed Console	
+2022-11-19 12:05:32	Method index not compliant	
+2022-11-19 12:05:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:05:33	Destructed Console
+--
+	
+2022-11-19 12:05:33	Constructed Console	
+2022-11-19 12:05:33	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:05:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:05:33	Destructed Console
+--
+	
+2022-11-19 12:05:44	Constructed Console	
+2022-11-19 12:05:44	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:05:44	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:05:44	Destructed Console
+--
+	
+2022-11-19 12:19:54	Constructed Console	
+2022-11-19 12:19:54	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:19:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:19:54	Destructed Console
+--
+	
+2022-11-19 12:19:54	Constructed Console	
+2022-11-19 12:19:54	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:19:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:19:54	Destructed Console
+--
+	
+2022-11-19 12:20:47	Constructed Console	
+2022-11-19 12:20:47	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:20:47	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:20:47	Destructed Console
+--
+	
+2022-11-19 12:20:47	Constructed Console	
+2022-11-19 12:20:47	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:20:47	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:20:47	Destructed Console
+--
+	
+2022-11-19 12:20:59	Constructed Console	
+2022-11-19 12:20:59	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:20:59	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:20:59	Destructed Console
+--
+	
+2022-11-19 12:20:59	Constructed Console	
+2022-11-19 12:20:59	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:20:59	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:20:59	Destructed Console
+--
+	
+2022-11-19 12:22:31	Constructed Console	
+2022-11-19 12:22:31	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:22:31	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:22:31	Destructed Console
+--
+	
+2022-11-19 12:22:31	Constructed Console	
+2022-11-19 12:22:31	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:22:31	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:22:31	Destructed Console
+--
+	
+2022-11-19 12:23:39	Constructed Console	
+2022-11-19 12:23:39	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:23:39	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:23:39	Destructed Console
+--
+	
+2022-11-19 12:23:39	Constructed Console	
+2022-11-19 12:23:39	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:23:39	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:23:39	Destructed Console
+--
+	
+2022-11-19 12:24:11	Constructed Console	
+2022-11-19 12:24:11	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:24:11	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:24:11	Destructed Console
+--
+	
+2022-11-19 12:24:11	Constructed Console	
+2022-11-19 12:24:11	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:24:11	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:24:11	Destructed Console
+--
+	
+2022-11-19 12:24:46	Constructed Console	
+2022-11-19 12:24:46	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:24:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:24:46	Destructed Console
+--
+	
+2022-11-19 12:24:46	Constructed Console	
+2022-11-19 12:24:46	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:24:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:24:47	Destructed Console
+--
+	
+2022-11-19 12:25:02	Constructed Console	
+2022-11-19 12:25:02	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:25:02	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:02	Destructed Console
+--
+	
+2022-11-19 12:25:02	Constructed Console	
+2022-11-19 12:25:02	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:25:02	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:02	Destructed Console
+--
+	
+2022-11-19 12:25:02	Constructed Console	
+2022-11-19 12:25:02	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:25:02	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:02	Destructed Console
+--
+	
+2022-11-19 12:25:02	Constructed Console	
+2022-11-19 12:25:02	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:25:02	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:02	Destructed Console
+--
+	
+2022-11-19 12:25:21	Constructed Console	
+2022-11-19 12:25:21	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:25:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:21	Destructed Console
+--
+	
+2022-11-19 12:25:21	Constructed Console	
+2022-11-19 12:25:21	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:25:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:21	Destructed Console
+--
+	
+2022-11-19 12:25:43	Constructed Console	
+2022-11-19 12:25:43	Unable to construct Controller with path js/invoice.js	
+2022-11-19 12:25:43	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:43	Destructed Console
+--
+	
+2022-11-19 12:25:43	Constructed Console	
+2022-11-19 12:25:43	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:25:43	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:43	Destructed Console
+--
+	
+2022-11-19 12:25:54	Constructed Console	
+2022-11-19 12:25:54	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:25:54	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:25:54	Destructed Console
+--
+	
+2022-11-19 12:26:27	Constructed Console	
+2022-11-19 12:26:27	Unable to construct Controller with path favicon.ico	
+2022-11-19 12:26:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#1 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#2 {main}	
+2022-11-19 12:26:27	Destructed Console
+--
+	

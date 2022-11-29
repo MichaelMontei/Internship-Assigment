@@ -1,0 +1,70 @@
+2022-11-16 13:57:56	Constructed Console	
+2022-11-16 13:57:56	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, string given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 29	
+2022-11-16 13:57:56	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(29): Tigron\Cp\Invoice::get_by_user('Michael')
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-16 13:57:56	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, string given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 29	
+2022-11-16 13:57:56	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(29): Tigron\Cp\Invoice::get_by_user('Michael')
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-16 13:57:56	Destructed Console
+--
+	
+2022-11-16 15:38:28	Constructed Console	
+2022-11-16 15:38:28	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, string given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 29	
+2022-11-16 15:38:28	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(29): Tigron\Cp\Invoice::get_by_user('Michael')
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-16 15:38:28	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, string given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 29	
+2022-11-16 15:38:28	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(29): Tigron\Cp\Invoice::get_by_user('Michael')
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-16 15:38:28	Destructed Console
+--
+	
+2022-11-16 15:41:03	Constructed Console	
+2022-11-16 15:41:03	Call to undefined method Tigron\Cp\Invoice::get_by_user_id()	
+2022-11-16 15:41:03	#0 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-16 15:41:03	Call to undefined method Tigron\Cp\Invoice::get_by_user_id()	
+2022-11-16 15:41:03	#0 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-16 15:41:03	Destructed Console
+--
+	
+2022-11-16 15:55:13	Constructed Console	
+2022-11-16 15:55:13	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, int given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 26	
+2022-11-16 15:55:13	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(26): Tigron\Cp\Invoice::get_by_user(5)
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-16 15:55:13	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, int given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 26	
+2022-11-16 15:55:13	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(26): Tigron\Cp\Invoice::get_by_user(5)
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-16 15:55:13	Destructed Console
+--
+	

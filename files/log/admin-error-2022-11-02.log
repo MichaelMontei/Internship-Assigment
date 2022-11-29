@@ -1,0 +1,747 @@
+2022-11-02 13:35:03	Constructed Console	
+2022-11-02 13:35:03	syntax error, unexpected 'public' (T_PUBLIC), expecting end of file	
+2022-11-02 13:35:03	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 13:35:03	Destructed Console
+--
+	
+2022-11-02 13:36:13	Constructed Console	
+2022-11-02 13:36:13	syntax error, unexpected 'public' (T_PUBLIC), expecting end of file	
+2022-11-02 13:36:13	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 13:36:13	Destructed Console
+--
+	
+2022-11-02 13:36:31	Constructed Console	
+2022-11-02 13:36:31	syntax error, unexpected 'public' (T_PUBLIC), expecting end of file	
+2022-11-02 13:36:31	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 13:36:31	Destructed Console
+--
+	
+2022-11-02 13:36:32	Constructed Console	
+2022-11-02 13:36:32	syntax error, unexpected 'public' (T_PUBLIC), expecting end of file	
+2022-11-02 13:36:32	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 13:36:32	Destructed Console
+--
+	
+2022-11-02 13:36:52	Constructed Console	
+2022-11-02 13:36:52	syntax error, unexpected 'public' (T_PUBLIC), expecting end of file	
+2022-11-02 13:36:52	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 13:36:52	Destructed Console
+--
+	
+2022-11-02 13:47:07	Constructed Console	
+2022-11-02 13:47:07	syntax error, unexpected 'public' (T_PUBLIC), expecting end of file	
+2022-11-02 13:47:07	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 13:47:07	Destructed Console
+--
+	
+2022-11-02 15:02:09	Constructed Console	
+2022-11-02 15:02:09	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice\Queue' not found	
+2022-11-02 15:02:09	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:02:09	Destructed Console
+--
+	
+2022-11-02 15:09:06	Constructed Console	
+2022-11-02 15:09:06	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:09:06	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:09:06	Destructed Console
+--
+	
+2022-11-02 15:09:37	Constructed Console	
+2022-11-02 15:09:37	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:09:37	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:09:37	Destructed Console
+--
+	
+2022-11-02 15:09:42	Constructed Console	
+2022-11-02 15:09:42	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:09:42	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1069): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:09:42	Destructed Console
+--
+	
+2022-11-02 15:09:46	Constructed Console	
+2022-11-02 15:09:46	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:09:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:09:46	Destructed Console
+--
+	
+2022-11-02 15:14:27	Constructed Console	
+2022-11-02 15:14:27	syntax error, unexpected 'echo' (T_ECHO)	
+2022-11-02 15:14:27	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 15:14:27	Destructed Console
+--
+	
+2022-11-02 15:14:50	Constructed Console	
+2022-11-02 15:14:50	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:14:50	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:14:50	Destructed Console
+--
+	
+2022-11-02 15:14:55	Constructed Console	
+2022-11-02 15:14:55	syntax error, unexpected 'echo' (T_ECHO)	
+2022-11-02 15:14:55	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 15:14:55	Destructed Console
+--
+	
+2022-11-02 15:14:55	Constructed Console	
+2022-11-02 15:14:55	syntax error, unexpected 'echo' (T_ECHO)	
+2022-11-02 15:14:55	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-02 15:14:55	Destructed Console
+--
+	
+2022-11-02 15:21:36	Constructed Console	
+2022-11-02 15:21:36	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:21:36	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:21:36	Destructed Console
+--
+	
+2022-11-02 15:23:04	Constructed Console	
+2022-11-02 15:23:04	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:23:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:23:04	Destructed Console
+--
+	
+2022-11-02 15:27:03	Constructed Console	
+2022-11-02 15:27:03	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:27:03	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:27:03	Destructed Console
+--
+	
+2022-11-02 15:27:32	Constructed Console	
+2022-11-02 15:27:32	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:27:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:27:32	Destructed Console
+--
+	
+2022-11-02 15:27:32	Constructed Console	
+2022-11-02 15:27:32	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:27:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:27:32	Destructed Console
+--
+	
+2022-11-02 15:27:33	Constructed Console	
+2022-11-02 15:27:33	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:27:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:27:33	Destructed Console
+--
+	
+2022-11-02 15:28:10	Constructed Console	
+2022-11-02 15:28:10	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Tigron\Cp\Invoice' not found	
+2022-11-02 15:28:10	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:28:10	Destructed Console
+--
+	
+2022-11-02 15:28:32	Constructed Console	
+2022-11-02 15:28:32	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Tigron\Cp\Invoice' not found	
+2022-11-02 15:28:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:28:32	Destructed Console
+--
+	
+2022-11-02 15:28:33	Constructed Console	
+2022-11-02 15:28:33	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Tigron\Cp\Invoice' not found	
+2022-11-02 15:28:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:28:33	Destructed Console
+--
+	
+2022-11-02 15:28:33	Constructed Console	
+2022-11-02 15:28:33	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Tigron\Cp\Invoice' not found	
+2022-11-02 15:28:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:28:33	Destructed Console
+--
+	
+2022-11-02 15:28:33	Constructed Console	
+2022-11-02 15:28:33	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Tigron\Cp\Invoice' not found	
+2022-11-02 15:28:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:28:33	Destructed Console
+--
+	
+2022-11-02 15:28:33	Constructed Console	
+2022-11-02 15:28:33	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Tigron\Cp\Invoice' not found	
+2022-11-02 15:28:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:28:33	Destructed Console
+--
+	
+2022-11-02 15:40:32	Constructed Console	
+2022-11-02 15:40:32	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:40:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:40:32	Destructed Console
+--
+	
+2022-11-02 15:40:33	Constructed Console	
+2022-11-02 15:40:33	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:40:33	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:40:33	Destructed Console
+--
+	
+2022-11-02 15:41:51	Constructed Console	
+2022-11-02 15:41:51	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:41:51	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:41:51	Destructed Console
+--
+	
+2022-11-02 15:41:52	Constructed Console	
+2022-11-02 15:41:52	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:41:52	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:41:52	Destructed Console
+--
+	
+2022-11-02 15:41:52	Constructed Console	
+2022-11-02 15:41:52	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:41:52	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:41:52	Destructed Console
+--
+	
+2022-11-02 15:41:52	Constructed Console	
+2022-11-02 15:41:52	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:41:52	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:41:52	Destructed Console
+--
+	
+2022-11-02 15:43:05	Constructed Console	
+2022-11-02 15:43:05	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:43:05	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:43:06	Destructed Console
+--
+	
+2022-11-02 15:43:06	Constructed Console	
+2022-11-02 15:43:06	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:43:06	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:43:06	Destructed Console
+--
+	
+2022-11-02 15:43:19	Constructed Console	
+2022-11-02 15:43:19	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:43:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:43:19	Destructed Console
+--
+	
+2022-11-02 15:43:19	Constructed Console	
+2022-11-02 15:43:19	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice' not found	
+2022-11-02 15:43:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:43:19	Destructed Console
+--
+	
+2022-11-02 15:43:36	Constructed Console	
+2022-11-02 15:43:36	Call to undefined method Tigron\Cp\Invoice::get_all()	
+2022-11-02 15:43:36	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:43:36	Destructed Console
+--
+	
+2022-11-02 15:52:01	Constructed Console	
+2022-11-02 15:52:01	Call to undefined method Tigron\Cp\Invoice::get_all()	
+2022-11-02 15:52:01	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:52:01	Destructed Console
+--
+	
+2022-11-02 15:52:02	Constructed Console	
+2022-11-02 15:52:02	Call to undefined method Tigron\Cp\Invoice::get_all()	
+2022-11-02 15:52:02	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:52:02	Destructed Console
+--
+	
+2022-11-02 15:52:59	Constructed Console	
+2022-11-02 15:52:59	Call to private method Tigron\Cp\Invoice::get_details() from context 'M\App\Autoloader'	
+2022-11-02 15:52:59	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:52:59	Destructed Console
+--
+	
+2022-11-02 15:53:16	Constructed Console	
+2022-11-02 15:53:16	Call to private method Tigron\Cp\Invoice::get_details() from context 'M\App\Autoloader'	
+2022-11-02 15:53:16	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:53:16	Destructed Console
+--
+	
+2022-11-02 15:53:41	Constructed Console	
+2022-11-02 15:53:41	Call to private method Tigron\Cp\Invoice::get_details() from context 'M\App\Autoloader'	
+2022-11-02 15:53:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:53:41	Destructed Console
+--
+	
+2022-11-02 15:53:42	Constructed Console	
+2022-11-02 15:53:42	Call to private method Tigron\Cp\Invoice::get_details() from context 'M\App\Autoloader'	
+2022-11-02 15:53:42	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:53:42	Destructed Console
+--
+	
+2022-11-02 15:54:00	Constructed Console	
+2022-11-02 15:54:00	Call to undefined method Tigron\Cp\Invoice::get_all()	
+2022-11-02 15:54:00	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 15:54:00	Destructed Console
+--
+	
+2022-11-02 16:13:04	Constructed Console	
+2022-11-02 16:13:04	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice\Queue' not found	
+2022-11-02 16:13:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 16:13:04	Destructed Console
+--
+	
+2022-11-02 16:14:32	Constructed Console	
+2022-11-02 16:14:32	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice\Queue' not found	
+2022-11-02 16:14:32	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 16:14:32	Destructed Console
+--
+	
+2022-11-02 16:15:28	Constructed Console	
+2022-11-02 16:15:28	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice\Queue' not found	
+2022-11-02 16:15:28	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 16:15:28	Destructed Console
+--
+	
+2022-11-02 16:15:28	Constructed Console	
+2022-11-02 16:15:28	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Invoice\Queue' not found	
+2022-11-02 16:15:28	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/App/Autoloader.php(286): require_once()
+#1 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#2 [internal function]: spl_autoload_call('Main\\Module\\Tig...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-02 16:15:28	Destructed Console
+--
+	
+2022-11-02 16:55:33	Constructed Console	
+2022-11-02 16:55:33	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Product\Type\Category' not found	
+2022-11-02 16:55:33	#0 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-02 16:55:33	Class 'Main\Module\Tigron\Controller\Tigron\Cp\Product\Type\Category' not found	
+2022-11-02 16:55:33	#0 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-02 16:55:33	Destructed Console
+--
+	
+2022-11-02 17:04:21	Constructed Console	
+2022-11-02 17:04:21	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, instance of Tigron\Cp\User given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 32	
+2022-11-02 17:04:21	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_user(Object(Tigron\Cp\User))
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 17:04:21	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, instance of Tigron\Cp\User given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 32	
+2022-11-02 17:04:21	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_user(Object(Tigron\Cp\User))
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 17:04:21	Destructed Console
+--
+	
+2022-11-02 17:05:56	Constructed Console	
+2022-11-02 17:05:56	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, instance of Tigron\Cp\User given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 32	
+2022-11-02 17:05:56	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_user(Object(Tigron\Cp\User))
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 17:05:56	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, instance of Tigron\Cp\User given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 32	
+2022-11-02 17:05:56	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_user(Object(Tigron\Cp\User))
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 17:05:56	Destructed Console
+--
+	
+2022-11-02 17:06:13	Constructed Console	
+2022-11-02 17:06:13	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, instance of Tigron\Cp\User given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 32	
+2022-11-02 17:06:13	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_user(Object(Tigron\Cp\User))
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 17:06:13	Argument 1 passed to Tigron\Cp\Invoice::get_by_user() must be an instance of Tigron\User, instance of Tigron\Cp\User given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 32	
+2022-11-02 17:06:13	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(32): Tigron\Cp\Invoice::get_by_user(Object(Tigron\Cp\User))
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-02 17:06:13	Destructed Console
+--
+	

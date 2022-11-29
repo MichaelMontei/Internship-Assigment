@@ -1,0 +1,1068 @@
+2022-11-25 10:41:15	Constructed Console	
+2022-11-25 10:41:15	Class 'App\Tigron\TigronInvoiceLineMapper' not found	
+2022-11-25 10:41:15	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(23): Main\Module\Tigron\Controller\Tigron->getTigronInfo()
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-25 10:41:15	Class 'App\Tigron\TigronInvoiceLineMapper' not found	
+2022-11-25 10:41:15	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(23): Main\Module\Tigron\Controller\Tigron->getTigronInfo()
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-25 10:41:15	Destructed Console
+--
+	
+2022-11-25 10:41:16	Constructed Console	
+2022-11-25 10:41:16	Class 'App\Tigron\TigronInvoiceLineMapper' not found	
+2022-11-25 10:41:16	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(23): Main\Module\Tigron\Controller\Tigron->getTigronInfo()
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-25 10:41:16	Class 'App\Tigron\TigronInvoiceLineMapper' not found	
+2022-11-25 10:41:16	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(23): Main\Module\Tigron\Controller\Tigron->getTigronInfo()
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-25 10:41:16	Destructed Console
+--
+	
+2022-11-25 11:53:38	Constructed Console	
+2022-11-25 11:53:38	syntax error, unexpected '$out' (T_VARIABLE)	
+2022-11-25 11:53:38	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): spl_autoload_call('Main\\Module\\Tig...')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:53:38	syntax error, unexpected '$out' (T_VARIABLE)	
+2022-11-25 11:53:38	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): spl_autoload_call('Main\\Module\\Tig...')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:53:38	Destructed Console
+--
+	
+2022-11-25 11:53:45	Constructed Console	
+2022-11-25 11:53:45	syntax error, unexpected '}'	
+2022-11-25 11:53:45	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): spl_autoload_call('Main\\Module\\Tig...')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:53:45	syntax error, unexpected '}'	
+2022-11-25 11:53:45	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): spl_autoload_call('Main\\Module\\Tig...')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:53:45	Destructed Console
+--
+	
+2022-11-25 11:53:54	Constructed Console	
+2022-11-25 11:53:54	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText\TigronInvoiceLineText' not found	
+2022-11-25 11:53:54	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(21): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:53:54	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText\TigronInvoiceLineText' not found	
+2022-11-25 11:53:54	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(21): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:53:54	Destructed Console
+--
+	
+2022-11-25 11:54:41	Constructed Console	
+2022-11-25 11:54:41	Class 'Main\Module\Tigron\Controller\TigronInvoiceLineText' not found	
+2022-11-25 11:54:41	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:54:41	Class 'Main\Module\Tigron\Controller\TigronInvoiceLineText' not found	
+2022-11-25 11:54:41	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:54:41	Destructed Console
+--
+	
+2022-11-25 11:56:20	Constructed Console	
+2022-11-25 11:56:20	Class 'Main\Module\Tigron\Controller\TigronInvoiceLineText' not found	
+2022-11-25 11:56:20	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:56:20	Class 'Main\Module\Tigron\Controller\TigronInvoiceLineText' not found	
+2022-11-25 11:56:20	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:56:20	Destructed Console
+--
+	
+2022-11-25 11:56:47	Constructed Console	
+2022-11-25 11:56:47	Class 'Main\Module\Tigron\Controller\TigronInvoiceLineText' not found	
+2022-11-25 11:56:47	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:56:47	Class 'Main\Module\Tigron\Controller\TigronInvoiceLineText' not found	
+2022-11-25 11:56:47	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:56:47	Destructed Console
+--
+	
+2022-11-25 11:56:49	Constructed Console	
+2022-11-25 11:56:49	Class 'Main\Module\Tigron\Controller\TigronInvoiceLineText' not found	
+2022-11-25 11:56:49	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:56:49	Class 'Main\Module\Tigron\Controller\TigronInvoiceLineText' not found	
+2022-11-25 11:56:49	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 11:56:49	Destructed Console
+--
+	
+2022-11-25 13:09:40	Constructed Console	
+2022-11-25 13:09:40	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:09:40	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(21): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:09:40	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:09:40	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(21): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:09:40	Destructed Console
+--
+	
+2022-11-25 13:25:02	Constructed Console	
+2022-11-25 13:25:02	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:25:02	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(21): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:25:02	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:25:02	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(21): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:25:02	Destructed Console
+--
+	
+2022-11-25 13:27:29	Constructed Console	
+2022-11-25 13:27:29	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText\TigronInvoiceLineText' not found	
+2022-11-25 13:27:29	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:27:29	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText\TigronInvoiceLineText' not found	
+2022-11-25 13:27:29	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:27:29	Destructed Console
+--
+	
+2022-11-25 13:27:42	Constructed Console	
+2022-11-25 13:27:42	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:27:42	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:27:42	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:27:42	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:27:42	Destructed Console
+--
+	
+2022-11-25 13:28:23	Constructed Console	
+2022-11-25 13:28:23	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText\TigronInvoiceLineText' not found	
+2022-11-25 13:28:23	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:28:23	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText\TigronInvoiceLineText' not found	
+2022-11-25 13:28:23	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:28:23	Destructed Console
+--
+	
+2022-11-25 13:28:40	Constructed Console	
+2022-11-25 13:28:40	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:28:40	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:28:40	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:28:40	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:28:40	Destructed Console
+--
+	
+2022-11-25 13:28:46	Constructed Console	
+2022-11-25 13:28:46	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:28:46	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:28:46	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:28:46	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:28:46	Destructed Console
+--
+	
+2022-11-25 13:28:47	Constructed Console	
+2022-11-25 13:28:47	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:28:47	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:28:47	Class 'Main\Module\Tigron\Model\TigronInvoiceLineText' not found	
+2022-11-25 13:28:47	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:28:47	Destructed Console
+--
+	
+2022-11-25 13:32:15	Constructed Console	
+2022-11-25 13:32:15	Object of class Main\Module\Tigron\Model\TigronInvoiceLine could not be converted to string	
+2022-11-25 13:32:15	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:32:15	Object of class Main\Module\Tigron\Model\TigronInvoiceLine could not be converted to string	
+2022-11-25 13:32:15	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:32:15	Destructed Console
+--
+	
+2022-11-25 13:33:10	Constructed Console	
+2022-11-25 13:33:10	Object of class Main\Module\Tigron\Model\TigronInvoiceLine could not be converted to string	
+2022-11-25 13:33:10	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:33:10	Object of class Main\Module\Tigron\Model\TigronInvoiceLine could not be converted to string	
+2022-11-25 13:33:10	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:33:10	Destructed Console
+--
+	
+2022-11-25 13:34:58	Constructed Console	
+2022-11-25 13:34:58	Call to undefined method Main\Module\Tigron\Model\TigronInvoiceLine::getDomain()	
+2022-11-25 13:34:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(46): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-25 13:34:58	Call to undefined method Main\Module\Tigron\Model\TigronInvoiceLine::getDomain()	
+2022-11-25 13:34:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(46): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-25 13:34:58	Destructed Console
+--
+	
+2022-11-25 13:36:56	Constructed Console	
+2022-11-25 13:36:56	Object of class Main\Module\Tigron\Model\TigronInvoiceLine could not be converted to string	
+2022-11-25 13:36:56	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:36:56	Object of class Main\Module\Tigron\Model\TigronInvoiceLine could not be converted to string	
+2022-11-25 13:36:56	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:36:56	Destructed Console
+--
+	
+2022-11-25 13:37:09	Constructed Console	
+2022-11-25 13:37:09	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55	
+2022-11-25 13:37:09	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:37:09	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55	
+2022-11-25 13:37:09	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:37:09	Destructed Console
+--
+	
+2022-11-25 13:37:37	Constructed Console	
+2022-11-25 13:37:37	Too few arguments to function Main\Module\Tigron\Model\TigronInvoiceLineText::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55 and exactly 1 expected	
+2022-11-25 13:37:37	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:37:37	Too few arguments to function Main\Module\Tigron\Model\TigronInvoiceLineText::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55 and exactly 1 expected	
+2022-11-25 13:37:37	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:37:37	Destructed Console
+--
+	
+2022-11-25 13:37:56	Constructed Console	
+2022-11-25 13:37:56	Too few arguments to function Main\Module\Tigron\Model\TigronInvoiceLineText::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55 and exactly 1 expected	
+2022-11-25 13:37:56	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:37:56	Too few arguments to function Main\Module\Tigron\Model\TigronInvoiceLineText::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55 and exactly 1 expected	
+2022-11-25 13:37:56	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:37:56	Destructed Console
+--
+	
+2022-11-25 13:38:11	Constructed Console	
+2022-11-25 13:38:11	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55	
+2022-11-25 13:38:11	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:38:11	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55	
+2022-11-25 13:38:11	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:38:12	Destructed Console
+--
+	
+2022-11-25 13:38:34	Constructed Console	
+2022-11-25 13:38:34	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55	
+2022-11-25 13:38:34	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:38:34	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55	
+2022-11-25 13:38:34	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:38:34	Destructed Console
+--
+	
+2022-11-25 13:38:42	Constructed Console	
+2022-11-25 13:38:42	Return value of Main\Module\Tigron\Model\TigronInvoiceLineText::getLineText() must be of the type string, object returned	
+2022-11-25 13:38:42	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoiceLineText.php(26): Main\Module\Tigron\Model\TigronInvoiceLineText->getLineText()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): Main\Module\Tigron\Model\TigronInvoiceLineText->getDomain()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#4 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-25 13:38:42	Return value of Main\Module\Tigron\Model\TigronInvoiceLineText::getLineText() must be of the type string, object returned	
+2022-11-25 13:38:42	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoiceLineText.php(26): Main\Module\Tigron\Model\TigronInvoiceLineText->getLineText()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): Main\Module\Tigron\Model\TigronInvoiceLineText->getDomain()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#4 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-25 13:38:42	Destructed Console
+--
+	
+2022-11-25 13:40:49	Constructed Console	
+2022-11-25 13:40:49	Too few arguments to function Main\Module\Tigron\Model\TigronInvoiceLineText::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55 and exactly 1 expected	
+2022-11-25 13:40:49	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:40:49	Too few arguments to function Main\Module\Tigron\Model\TigronInvoiceLineText::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55 and exactly 1 expected	
+2022-11-25 13:40:49	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:40:49	Destructed Console
+--
+	
+2022-11-25 13:42:48	Constructed Console	
+2022-11-25 13:42:48	Too few arguments to function App\Tigron\TigronInvoiceLineMapper::addFilterDomain(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 60 and exactly 1 expected	
+2022-11-25 13:42:48	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(60): App\Tigron\TigronInvoiceLineMapper->addFilterDomain()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:42:48	Too few arguments to function App\Tigron\TigronInvoiceLineMapper::addFilterDomain(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 60 and exactly 1 expected	
+2022-11-25 13:42:48	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(60): App\Tigron\TigronInvoiceLineMapper->addFilterDomain()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:42:48	Destructed Console
+--
+	
+2022-11-25 13:43:46	Constructed Console	
+2022-11-25 13:43:46	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 60	
+2022-11-25 13:43:46	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(60): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:43:46	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 60	
+2022-11-25 13:43:46	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(60): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:43:46	Destructed Console
+--
+	
+2022-11-25 13:50:10	Constructed Console	
+2022-11-25 13:50:10	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55	
+2022-11-25 13:50:10	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:50:10	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 55	
+2022-11-25 13:50:10	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(55): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:50:10	Destructed Console
+--
+	
+2022-11-25 13:50:31	Constructed Console	
+2022-11-25 13:50:31	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:50:31	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:50:31	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:50:31	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:50:31	Destructed Console
+--
+	
+2022-11-25 13:50:33	Constructed Console	
+2022-11-25 13:50:33	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:50:33	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:50:33	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:50:33	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:50:33	Destructed Console
+--
+	
+2022-11-25 13:50:58	Constructed Console	
+2022-11-25 13:50:58	Object of class Main\Module\Tigron\Model\TigronInvoiceLine could not be converted to string	
+2022-11-25 13:50:58	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:50:58	Object of class Main\Module\Tigron\Model\TigronInvoiceLine could not be converted to string	
+2022-11-25 13:50:58	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:50:58	Destructed Console
+--
+	
+2022-11-25 13:51:27	Constructed Console	
+2022-11-25 13:51:27	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:51:27	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:51:27	Argument 1 passed to Main\Module\Tigron\Model\TigronInvoiceLineText::__construct() must be of the type string, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:51:27	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:51:27	Destructed Console
+--
+	
+2022-11-25 13:57:48	Constructed Console	
+2022-11-25 13:57:48	Class 'Main\Module\Tigron\Model\FilterWhere' not found	
+2022-11-25 13:57:48	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:57:48	Class 'Main\Module\Tigron\Model\FilterWhere' not found	
+2022-11-25 13:57:48	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:57:48	Destructed Console
+--
+	
+2022-11-25 13:58:06	Constructed Console	
+2022-11-25 13:58:06	syntax error, unexpected '->' (T_OBJECT_OPERATOR)	
+2022-11-25 13:58:06	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): spl_autoload_call('Main\\Module\\Tig...')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:58:06	syntax error, unexpected '->' (T_OBJECT_OPERATOR)	
+2022-11-25 13:58:06	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): spl_autoload_call('Main\\Module\\Tig...')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 13:58:06	Destructed Console
+--
+	
+2022-11-25 13:58:14	Constructed Console	
+2022-11-25 13:58:14	Too few arguments to function App\Tigron\TigronInvoiceLineMapper::addFilterDomain(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56 and exactly 1 expected	
+2022-11-25 13:58:14	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): App\Tigron\TigronInvoiceLineMapper->addFilterDomain()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:58:14	Too few arguments to function App\Tigron\TigronInvoiceLineMapper::addFilterDomain(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56 and exactly 1 expected	
+2022-11-25 13:58:14	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): App\Tigron\TigronInvoiceLineMapper->addFilterDomain()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:58:14	Destructed Console
+--
+	
+2022-11-25 13:58:25	Constructed Console	
+2022-11-25 13:58:25	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:58:25	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:58:25	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:58:25	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:58:25	Destructed Console
+--
+	
+2022-11-25 13:58:53	Constructed Console	
+2022-11-25 13:58:53	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:58:53	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:58:53	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:58:53	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:58:53	Destructed Console
+--
+	
+2022-11-25 13:59:25	Constructed Console	
+2022-11-25 13:59:25	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:59:25	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:59:25	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, object given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 56	
+2022-11-25 13:59:25	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(56): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Object(Main\Module\Tigron\Model\TigronInvoiceLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 13:59:25	Destructed Console
+--
+	
+2022-11-25 14:00:45	Constructed Console	
+2022-11-25 14:00:45	Typed property Main\Module\Tigron\Model\TigronInvoiceLine::$_amount must not be accessed before initialization	
+2022-11-25 14:00:45	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(28): Main\Module\Tigron\Model\TigronInvoiceLine->getAmount()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(46): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-25 14:00:45	Typed property Main\Module\Tigron\Model\TigronInvoiceLine::$_amount must not be accessed before initialization	
+2022-11-25 14:00:45	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(28): Main\Module\Tigron\Model\TigronInvoiceLine->getAmount()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(46): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-25 14:00:45	Destructed Console
+--
+	
+2022-11-25 14:03:18	Constructed Console	
+2022-11-25 14:03:18	Too few arguments to function Main\Module\Tigron\Model\TigronInvoiceLineText::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 39 and exactly 1 expected	
+2022-11-25 14:03:18	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(39): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct()
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-25 14:03:18	Too few arguments to function Main\Module\Tigron\Model\TigronInvoiceLineText::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php on line 39 and exactly 1 expected	
+2022-11-25 14:03:18	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(39): Main\Module\Tigron\Model\TigronInvoiceLineText->__construct()
+#1 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-25 14:03:19	Destructed Console
+--
+	
+2022-11-25 14:15:19	Constructed Console	
+2022-11-25 14:15:19	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, array given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 48	
+2022-11-25 14:15:19	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(48): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 14:15:19	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, array given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 48	
+2022-11-25 14:15:19	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(48): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 14:15:19	Destructed Console
+--
+	
+2022-11-25 14:15:20	Constructed Console	
+2022-11-25 14:15:20	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, array given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 48	
+2022-11-25 14:15:20	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(48): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 14:15:20	Argument 1 passed to App\Tigron\TigronInvoiceLineMapper::addFilterDomain() must be of the type string or null, array given, called in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 48	
+2022-11-25 14:15:20	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(48): App\Tigron\TigronInvoiceLineMapper->addFilterDomain(Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 14:15:20	Destructed Console
+--
+	
+2022-11-25 14:15:41	Constructed Console	
+2022-11-25 14:15:41	Too few arguments to function App\Tigron\TigronInvoiceLineMapper::addFilterDomain(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 48 and exactly 1 expected	
+2022-11-25 14:15:41	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(48): App\Tigron\TigronInvoiceLineMapper->addFilterDomain()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 14:15:41	Too few arguments to function App\Tigron\TigronInvoiceLineMapper::addFilterDomain(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 48 and exactly 1 expected	
+2022-11-25 14:15:41	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(48): App\Tigron\TigronInvoiceLineMapper->addFilterDomain()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 14:15:41	Destructed Console
+--
+	
+2022-11-25 14:22:40	Constructed Console	
+2022-11-25 14:22:40	Too few arguments to function App\Tigron\TigronInvoiceLineMapper::addFilterDomain(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 48 and exactly 1 expected	
+2022-11-25 14:22:40	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(48): App\Tigron\TigronInvoiceLineMapper->addFilterDomain()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 14:22:40	Too few arguments to function App\Tigron\TigronInvoiceLineMapper::addFilterDomain(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php on line 48 and exactly 1 expected	
+2022-11-25 14:22:40	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(48): App\Tigron\TigronInvoiceLineMapper->addFilterDomain()
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#3 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-25 14:22:40	Destructed Console
+--
+	
+2022-11-25 15:05:03	Constructed Console	
+2022-11-25 15:05:03	Call to undefined method Main\Module\Tigron\Model\TigronInvoiceLineText::setAmount()	
+2022-11-25 15:05:03	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 15:05:03	Call to undefined method Main\Module\Tigron\Model\TigronInvoiceLineText::setAmount()	
+2022-11-25 15:05:03	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-25 15:05:03	Destructed Console
+--
+	
+2022-11-25 15:09:22	Constructed Console	
+2022-11-25 15:09:22	Call to undefined method App\Tigron\TigronInvoiceLineMapper::getDomain()	
+2022-11-25 15:09:22	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoiceLineText.php(50): App\Tigron\TigronInvoiceLineMapper->addFilterDomain('leaulyte.be')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(51): Main\Module\Tigron\Model\TigronInvoiceLineText->getTeamleaderMatch()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#4 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-25 15:09:22	Call to undefined method App\Tigron\TigronInvoiceLineMapper::getDomain()	
+2022-11-25 15:09:22	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoiceLineText.php(50): App\Tigron\TigronInvoiceLineMapper->addFilterDomain('leaulyte.be')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(51): Main\Module\Tigron\Model\TigronInvoiceLineText->getTeamleaderMatch()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#4 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-25 15:09:22	Destructed Console
+--
+	
+2022-11-25 15:10:37	Constructed Console	
+2022-11-25 15:10:37	Call to undefined method App\Tigron\TigronInvoiceLineMapper::getDomain()	
+2022-11-25 15:10:37	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoiceLineText.php(50): App\Tigron\TigronInvoiceLineMapper->addFilterDomain('leaulyte.be')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(51): Main\Module\Tigron\Model\TigronInvoiceLineText->getTeamleaderMatch()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#4 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-25 15:10:37	Call to undefined method App\Tigron\TigronInvoiceLineMapper::getDomain()	
+2022-11-25 15:10:37	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoiceLineText.php(50): App\Tigron\TigronInvoiceLineMapper->addFilterDomain('leaulyte.be')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(51): Main\Module\Tigron\Model\TigronInvoiceLineText->getTeamleaderMatch()
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(20): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#4 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#7 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#8 {main}	
+2022-11-25 15:10:37	Destructed Console
+--
+	

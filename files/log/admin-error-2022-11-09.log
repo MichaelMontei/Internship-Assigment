@@ -1,0 +1,675 @@
+2022-11-09 10:16:06	Constructed Console	
+2022-11-09 10:16:06	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:16:06	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:16:06	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:16:06	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:16:06	Destructed Console
+--
+	
+2022-11-09 10:16:08	Constructed Console	
+2022-11-09 10:16:08	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:16:08	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:16:08	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:16:08	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:16:08	Destructed Console
+--
+	
+2022-11-09 10:16:42	Constructed Console	
+2022-11-09 10:16:42	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:16:42	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:16:42	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:16:42	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:16:42	Destructed Console
+--
+	
+2022-11-09 10:16:45	Constructed Console	
+2022-11-09 10:16:45	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:16:45	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:16:45	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:16:45	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:16:45	Destructed Console
+--
+	
+2022-11-09 10:17:04	Constructed Console	
+2022-11-09 10:17:04	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:17:04	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:17:04	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:17:04	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:17:04	Destructed Console
+--
+	
+2022-11-09 10:17:04	Constructed Console	
+2022-11-09 10:17:04	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:17:04	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:17:04	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:17:04	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:17:04	Destructed Console
+--
+	
+2022-11-09 10:17:45	Constructed Console	
+2022-11-09 10:17:45	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:17:45	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:17:45	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:17:45	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:17:45	Destructed Console
+--
+	
+2022-11-09 10:18:14	Constructed Console	
+2022-11-09 10:18:14	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:18:14	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:18:14	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:18:14	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:18:14	Destructed Console
+--
+	
+2022-11-09 10:18:24	Constructed Console	
+2022-11-09 10:18:24	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:18:24	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:18:24	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:18:24	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:18:24	Destructed Console
+--
+	
+2022-11-09 10:19:21	Constructed Console	
+2022-11-09 10:19:21	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:19:21	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:19:21	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:19:21	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:19:21	Destructed Console
+--
+	
+2022-11-09 10:19:37	Constructed Console	
+2022-11-09 10:19:37	Class 'Main\Module\Sync\Module\SyncClients' not found	
+2022-11-09 10:19:37	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:19:37	Class 'Main\Module\Sync\Module\SyncClients' not found	
+2022-11-09 10:19:37	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:19:37	Destructed Console
+--
+	
+2022-11-09 10:20:00	Constructed Console	
+2022-11-09 10:20:00	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:20:00	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:20:00	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:20:00	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:20:00	Destructed Console
+--
+	
+2022-11-09 10:20:26	Constructed Console	
+2022-11-09 10:20:26	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:20:26	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:20:26	Class 'Sync\Module\SyncClients' not found	
+2022-11-09 10:20:26	#0 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:20:26	Destructed Console
+--
+	
+2022-11-09 10:36:30	Constructed Console	
+2022-11-09 10:36:30	Call to undefined method GuzzleHttp\Psr7\Response::toString()	
+2022-11-09 10:36:30	#0 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:36:30	Call to undefined method GuzzleHttp\Psr7\Response::toString()	
+2022-11-09 10:36:30	#0 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 10:36:30	Destructed Console
+--
+	
+2022-11-09 11:48:11	Constructed Console	
+2022-11-09 11:48:11	Call to undefined method M\DataObject\ResultSet::setName()	
+2022-11-09 11:48:11	#0 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 11:48:11	Call to undefined method M\DataObject\ResultSet::setName()	
+2022-11-09 11:48:11	#0 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 11:48:11	Destructed Console
+--
+	
+2022-11-09 13:17:25	Constructed Console	
+2022-11-09 13:17:25	syntax error, unexpected '}', expecting end of file	
+2022-11-09 13:17:25	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Sta...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Sta...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\St...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\St...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-09 13:17:25	Destructed Console
+--
+	
+2022-11-09 13:19:32	Constructed Console	
+2022-11-09 13:19:32	syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)	
+2022-11-09 13:19:32	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Sta...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Sta...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\St...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\St...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-09 13:19:32	Destructed Console
+--
+	
+2022-11-09 13:20:58	Constructed Console	
+2022-11-09 13:20:58	syntax error, unexpected '}', expecting end of file	
+2022-11-09 13:20:58	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Sta...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Sta...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\St...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\St...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-09 13:20:58	Destructed Console
+--
+	
+2022-11-09 13:21:03	Constructed Console	
+2022-11-09 13:21:03	syntax error, unexpected '}', expecting end of file	
+2022-11-09 13:21:03	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Sta...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Sta...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\St...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\St...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-09 13:21:03	Destructed Console
+--
+	
+2022-11-09 13:21:04	Constructed Console	
+2022-11-09 13:21:04	syntax error, unexpected '}', expecting end of file	
+2022-11-09 13:21:04	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Sta...')
+#1 [internal function]: spl_autoload_call('Main\\Module\\Sta...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\St...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\St...')
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#6 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#7 {main}	
+2022-11-09 13:21:04	Destructed Console
+--
+	
+2022-11-09 13:27:56	Constructed Console	
+2022-11-09 13:27:56	[] operator not supported for strings	
+2022-11-09 13:27:56	#0 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 13:27:56	[] operator not supported for strings	
+2022-11-09 13:27:56	#0 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#3 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#4 {main}	
+2022-11-09 13:27:56	Destructed Console
+--
+	
+2022-11-09 16:43:21	Constructed Console	
+2022-11-09 16:43:21	Class 'App\News\NewsMapper' not found	
+2022-11-09 16:43:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#7 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-09 16:43:21	Class 'App\News\NewsMapper' not found	
+2022-11-09 16:43:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#7 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-09 16:43:21	Destructed Console
+--
+	
+2022-11-09 16:43:44	Constructed Console	
+2022-11-09 16:43:44	Class 'App\News\NewsMapper' not found	
+2022-11-09 16:43:44	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#7 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-09 16:43:44	Class 'App\News\NewsMapper' not found	
+2022-11-09 16:43:44	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#7 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-09 16:43:44	Destructed Console
+--
+	
+2022-11-09 16:56:55	Constructed Console	
+2022-11-09 16:56:55	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:56:55	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:56:55	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:56:55	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:56:55	Destructed Console
+--
+	
+2022-11-09 16:57:18	Constructed Console	
+2022-11-09 16:57:18	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:57:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:57:18	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:57:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:57:18	Destructed Console
+--
+	
+2022-11-09 16:57:19	Constructed Console	
+2022-11-09 16:57:19	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:57:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:57:19	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:57:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:57:19	Destructed Console
+--
+	
+2022-11-09 16:58:03	Constructed Console	
+2022-11-09 16:58:03	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:58:03	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:58:03	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:58:03	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:58:03	Destructed Console
+--
+	
+2022-11-09 16:58:03	Constructed Console	
+2022-11-09 16:58:03	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:58:03	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:58:03	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:58:03	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:58:03	Destructed Console
+--
+	
+2022-11-09 16:58:21	Constructed Console	
+2022-11-09 16:58:21	syntax error, unexpected '?>', expecting '('	
+2022-11-09 16:58:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#5 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#6 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-09 16:58:21	syntax error, unexpected '?>', expecting '('	
+2022-11-09 16:58:21	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#5 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#6 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-09 16:58:21	Destructed Console
+--
+	
+2022-11-09 16:58:30	Constructed Console	
+2022-11-09 16:58:30	syntax error, unexpected '?>', expecting '('	
+2022-11-09 16:58:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#5 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#6 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-09 16:58:30	syntax error, unexpected '?>', expecting '('	
+2022-11-09 16:58:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#5 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#6 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-09 16:58:30	Destructed Console
+--
+	
+2022-11-09 16:58:43	Constructed Console	
+2022-11-09 16:58:43	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:58:43	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:58:43	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 16:58:43	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 16:58:43	Destructed Console
+--
+	
+2022-11-09 17:01:17	Constructed Console	
+2022-11-09 17:01:17	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 17:01:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 17:01:17	Argument 1 passed to M\DataObject\Mapper::getIdFromDbRecord() must be of the type array, bool given, called in /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php on line 72	
+2022-11-09 17:01:17	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/ResultSet.php(72): M\DataObject\Mapper->getIdFromDbRecord(false)
+#1 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/starwars/Starwars.phtml(29): M\DataObject\ResultSet->current()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#8 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Starwars/Controller/Starwars.php(27): M\View\View->display()
+#9 [internal function]: Main\Module\Starwars\Controller\Starwars->index()
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#12 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#13 {main}	
+2022-11-09 17:01:17	Destructed Console
+--
+	

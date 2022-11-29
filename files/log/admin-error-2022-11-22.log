@@ -1,0 +1,982 @@
+2022-11-22 11:29:10	Constructed Console	
+2022-11-22 11:29:10	syntax error, unexpected ';', expecting ']'	
+2022-11-22 11:29:10	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(38): spl_autoload_call('Main\\Module\\Tig...')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-22 11:29:10	syntax error, unexpected ';', expecting ']'	
+2022-11-22 11:29:10	#0 [internal function]: M\App\Autoloader->loadResource('Main\\Module\\Tig...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(38): spl_autoload_call('Main\\Module\\Tig...')
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-22 11:29:10	Destructed Console
+--
+	
+2022-11-22 12:20:29	Constructed Console	
+2022-11-22 12:20:29	Return value of Main\Module\Tigron\Model\TigronInvoice::getLines() must be of the type array, none returned	
+2022-11-22 12:20:29	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(38): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-22 12:20:29	Return value of Main\Module\Tigron\Model\TigronInvoice::getLines() must be of the type array, none returned	
+2022-11-22 12:20:29	#0 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(22): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(38): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-22 12:20:29	Destructed Console
+--
+	
+2022-11-22 12:21:08	Constructed Console	
+2022-11-22 12:21:08	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 20 and exactly 1 expected	
+2022-11-22 12:21:08	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(20): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:21:08	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 20 and exactly 1 expected	
+2022-11-22 12:21:08	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(20): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:21:08	Destructed Console
+--
+	
+2022-11-22 12:22:24	Constructed Console	
+2022-11-22 12:22:24	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 20 and exactly 1 expected	
+2022-11-22 12:22:24	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(20): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:22:24	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 20 and exactly 1 expected	
+2022-11-22 12:22:24	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(20): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:22:24	Destructed Console
+--
+	
+2022-11-22 12:28:34	Constructed Console	
+2022-11-22 12:28:34	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:28:34	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:28:34	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:28:34	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:28:34	Destructed Console
+--
+	
+2022-11-22 12:28:46	Constructed Console	
+2022-11-22 12:28:46	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:28:46	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:28:46	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:28:46	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:28:46	Destructed Console
+--
+	
+2022-11-22 12:30:22	Constructed Console	
+2022-11-22 12:30:22	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:30:22	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:30:22	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:30:22	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:30:22	Destructed Console
+--
+	
+2022-11-22 12:31:49	Constructed Console	
+2022-11-22 12:31:49	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:31:49	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:31:49	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:31:49	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:31:49	Destructed Console
+--
+	
+2022-11-22 12:32:03	Constructed Console	
+2022-11-22 12:32:03	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:32:03	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:32:03	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:32:03	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:32:03	Destructed Console
+--
+	
+2022-11-22 12:32:17	Constructed Console	
+2022-11-22 12:32:17	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:32:17	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:32:17	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:32:17	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:32:17	Destructed Console
+--
+	
+2022-11-22 12:35:45	Constructed Console	
+2022-11-22 12:35:45	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 20 and exactly 1 expected	
+2022-11-22 12:35:45	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(20): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:35:45	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 20 and exactly 1 expected	
+2022-11-22 12:35:45	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(20): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:35:45	Destructed Console
+--
+	
+2022-11-22 12:36:36	Constructed Console	
+2022-11-22 12:36:36	syntax error, unexpected ';'	
+2022-11-22 12:36:36	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#5 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#6 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-22 12:36:36	syntax error, unexpected ';'	
+2022-11-22 12:36:36	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#5 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#6 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#9 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#10 {main}	
+2022-11-22 12:36:36	Destructed Console
+--
+	
+2022-11-22 12:38:26	Constructed Console	
+2022-11-22 12:38:26	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:38:26	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:38:26	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:38:26	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:38:26	Destructed Console
+--
+	
+2022-11-22 12:38:44	Constructed Console	
+2022-11-22 12:38:44	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:38:44	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:38:44	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:38:44	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:38:44	Destructed Console
+--
+	
+2022-11-22 12:45:27	Constructed Console	
+2022-11-22 12:45:27	Call to a member function getLines() on int	
+2022-11-22 12:45:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 12:45:27	Call to a member function getLines() on int	
+2022-11-22 12:45:27	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 12:45:27	Destructed Console
+--
+	
+2022-11-22 12:46:01	Constructed Console	
+2022-11-22 12:46:01	Cannot use object of type Main\Module\Tigron\Model\TigronInvoice as array	
+2022-11-22 12:46:01	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 12:46:01	Cannot use object of type Main\Module\Tigron\Model\TigronInvoice as array	
+2022-11-22 12:46:01	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 12:46:01	Destructed Console
+--
+	
+2022-11-22 12:46:15	Constructed Console	
+2022-11-22 12:46:15	Cannot use object of type Main\Module\Tigron\Model\TigronInvoice as array	
+2022-11-22 12:46:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 12:46:15	Cannot use object of type Main\Module\Tigron\Model\TigronInvoice as array	
+2022-11-22 12:46:15	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 12:46:15	Destructed Console
+--
+	
+2022-11-22 12:46:52	Constructed Console	
+2022-11-22 12:46:52	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:46:52	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:46:52	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:46:52	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:46:52	Destructed Console
+--
+	
+2022-11-22 12:49:07	Constructed Console	
+2022-11-22 12:49:07	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:49:07	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:49:07	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:49:07	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:49:07	Destructed Console
+--
+	
+2022-11-22 12:49:11	Constructed Console	
+2022-11-22 12:49:11	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:49:11	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:49:11	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:49:11	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:49:11	Destructed Console
+--
+	
+2022-11-22 12:52:52	Constructed Console	
+2022-11-22 12:52:52	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:52:52	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:52:52	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 12:52:52	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 12:52:52	Destructed Console
+--
+	
+2022-11-22 12:55:58	Constructed Console	
+2022-11-22 12:55:58	Call to undefined method Main\Module\Tigron\Model\TigronInvoice::get_by_number()	
+2022-11-22 12:55:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 12:55:58	Call to undefined method Main\Module\Tigron\Model\TigronInvoice::get_by_number()	
+2022-11-22 12:55:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 12:55:58	Destructed Console
+--
+	
+2022-11-22 13:03:50	Constructed Console	
+2022-11-22 13:03:50	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 13:03:50	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:03:50	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 13:03:50	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:03:50	Destructed Console
+--
+	
+2022-11-22 13:08:16	Constructed Console	
+2022-11-22 13:08:16	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 13:08:16	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:08:16	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 13:08:16	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:08:16	Destructed Console
+--
+	
+2022-11-22 13:08:55	Constructed Console	
+2022-11-22 13:08:55	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 13:08:55	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:08:55	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 21 and exactly 1 expected	
+2022-11-22 13:08:55	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(21): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:08:55	Destructed Console
+--
+	
+2022-11-22 13:13:45	Constructed Console	
+2022-11-22 13:13:45	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 22 and exactly 1 expected	
+2022-11-22 13:13:45	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(22): Main\Module\Tigron\Model\TigronInvoice->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:13:45	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 22 and exactly 1 expected	
+2022-11-22 13:13:45	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(22): Main\Module\Tigron\Model\TigronInvoice->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:13:45	Destructed Console
+--
+	
+2022-11-22 13:13:46	Constructed Console	
+2022-11-22 13:13:46	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 22 and exactly 1 expected	
+2022-11-22 13:13:46	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(22): Main\Module\Tigron\Model\TigronInvoice->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:13:46	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 22 and exactly 1 expected	
+2022-11-22 13:13:46	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(22): Main\Module\Tigron\Model\TigronInvoice->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:13:46	Destructed Console
+--
+	
+2022-11-22 13:13:51	Constructed Console	
+2022-11-22 13:13:51	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 22 and exactly 1 expected	
+2022-11-22 13:13:51	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(22): Main\Module\Tigron\Model\TigronInvoice->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:13:51	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::__construct(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 22 and exactly 1 expected	
+2022-11-22 13:13:51	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(22): Main\Module\Tigron\Model\TigronInvoice->__construct()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:13:51	Destructed Console
+--
+	
+2022-11-22 13:17:15	Constructed Console	
+2022-11-22 13:17:15	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 22 and exactly 1 expected	
+2022-11-22 13:17:15	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(22): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:17:15	Too few arguments to function Main\Module\Tigron\Model\TigronInvoice::getLines(), 0 passed in /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml on line 22 and exactly 1 expected	
+2022-11-22 13:17:15	#0 /Volumes/htdocs/tigron-invoicing-tool/src/main/template/tigron/TigronInvoiceView.phtml(22): Main\Module\Tigron\Model\TigronInvoice->getLines()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require('/Volumes/htdocs...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#7 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#8 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#10 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#11 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#12 {main}	
+2022-11-22 13:17:15	Destructed Console
+--
+	
+2022-11-22 13:57:18	Constructed Console	
+2022-11-22 13:57:18	Call to undefined method M\View\Phtml\Template::getNumber()	
+2022-11-22 13:57:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 13:57:18	Call to undefined method M\View\Phtml\Template::getNumber()	
+2022-11-22 13:57:18	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 13:57:18	Destructed Console
+--
+	
+2022-11-22 14:00:16	Constructed Console	
+2022-11-22 14:00:16	Object of class Main\Module\Tigron\Model\TigronInvoice could not be converted to string	
+2022-11-22 14:00:16	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 14:00:16	Object of class Main\Module\Tigron\Model\TigronInvoice could not be converted to string	
+2022-11-22 14:00:16	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 14:00:16	Destructed Console
+--
+	
+2022-11-22 14:00:23	Constructed Console	
+2022-11-22 14:00:23	Object of class Main\Module\Tigron\Model\TigronInvoice could not be converted to string	
+2022-11-22 14:00:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 14:00:23	Object of class Main\Module\Tigron\Model\TigronInvoice could not be converted to string	
+2022-11-22 14:00:23	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/Phtml/Template.php(81): require()
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(282): M\View\Phtml\Template->render()
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(276): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template))
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(169): M\View\View->_getTemplateRender(Object(M\View\Phtml\Template), true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/View/View.php(185): M\View\View->getHtml()
+#6 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(47): M\View\View->display()
+#7 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#10 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#11 {main}	
+2022-11-22 14:00:23	Destructed Console
+--
+	

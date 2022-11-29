@@ -1,0 +1,78 @@
+2022-11-29 10:37:41	Constructed Console	
+2022-11-29 10:37:41	Object [App\Tigron\TigronLine] does not implement DefinesObjectWithTimestamps, while its mapper is configured as such.	
+2022-11-29 10:37:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/Mapper.php(177): App\Shared\DataObject\MapperWithTimestamps->insert(Object(App\Tigron\TigronLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/DataObject.php(198): M\DataObject\Mapper->save(Object(App\Tigron\TigronLine))
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(71): M\DataObject\DataObject->save()
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(23): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#5 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-29 10:37:41	Object [App\Tigron\TigronLine] does not implement DefinesObjectWithTimestamps, while its mapper is configured as such.	
+2022-11-29 10:37:41	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/Mapper.php(177): App\Shared\DataObject\MapperWithTimestamps->insert(Object(App\Tigron\TigronLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/DataObject.php(198): M\DataObject\Mapper->save(Object(App\Tigron\TigronLine))
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(71): M\DataObject\DataObject->save()
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(23): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#5 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-29 10:37:41	Destructed Console
+--
+	
+2022-11-29 10:50:31	Constructed Console	
+2022-11-29 10:50:31	Object [App\Tigron\TigronLine] does not implement DefinesObjectWithTimestamps, while its mapper is configured as such.	
+2022-11-29 10:50:31	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/Mapper.php(177): App\Shared\DataObject\MapperWithTimestamps->insert(Object(App\Tigron\TigronLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/DataObject.php(198): M\DataObject\Mapper->save(Object(App\Tigron\TigronLine))
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(70): M\DataObject\DataObject->save()
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(23): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#5 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-29 10:50:31	Object [App\Tigron\TigronLine] does not implement DefinesObjectWithTimestamps, while its mapper is configured as such.	
+2022-11-29 10:50:31	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/Mapper.php(177): App\Shared\DataObject\MapperWithTimestamps->insert(Object(App\Tigron\TigronLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/DataObject.php(198): M\DataObject\Mapper->save(Object(App\Tigron\TigronLine))
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(70): M\DataObject\DataObject->save()
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(23): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#5 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-29 10:50:31	Destructed Console
+--
+	
+2022-11-29 10:50:55	Constructed Console	
+2022-11-29 10:50:55	Object [App\Tigron\TigronLine] does not implement DefinesObjectWithTimestamps, while its mapper is configured as such.	
+2022-11-29 10:50:55	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/Mapper.php(177): App\Shared\DataObject\MapperWithTimestamps->insert(Object(App\Tigron\TigronLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/DataObject.php(198): M\DataObject\Mapper->save(Object(App\Tigron\TigronLine))
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(70): M\DataObject\DataObject->save()
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(23): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#5 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-29 10:50:55	Object [App\Tigron\TigronLine] does not implement DefinesObjectWithTimestamps, while its mapper is configured as such.	
+2022-11-29 10:50:55	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/Mapper.php(177): App\Shared\DataObject\MapperWithTimestamps->insert(Object(App\Tigron\TigronLine))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/DataObject/DataObject.php(198): M\DataObject\Mapper->save(Object(App\Tigron\TigronLine))
+#2 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(70): M\DataObject\DataObject->save()
+#3 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Model/TigronInvoice.php(23): Main\Module\Tigron\Model\TigronInvoice->getLines(25592)
+#4 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(37): Main\Module\Tigron\Model\TigronInvoice->__construct(25592)
+#5 [internal function]: Main\Module\Tigron\Controller\Tigron->invoice(25592)
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#8 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#9 {main}	
+2022-11-29 10:50:55	Destructed Console
+--
+	

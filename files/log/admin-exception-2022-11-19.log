@@ -1,0 +1,220 @@
+2022-11-19 12:00:07	Constructed Console	
+2022-11-19 12:00:07	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:00:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:00:07	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:00:07	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:00:07	Destructed Console
+--
+	
+2022-11-19 12:00:44	Constructed Console	
+2022-11-19 12:00:44	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:00:44	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:00:44	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:00:44	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:00:44	Destructed Console
+--
+	
+2022-11-19 12:02:29	Constructed Console	
+2022-11-19 12:02:29	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:02:29	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:02:29	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:02:29	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:02:29	Destructed Console
+--
+	
+2022-11-19 12:02:30	Constructed Console	
+2022-11-19 12:02:30	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:02:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:02:30	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:02:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:02:30	Destructed Console
+--
+	
+2022-11-19 12:02:30	Constructed Console	
+2022-11-19 12:02:30	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:02:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:02:30	Client error: `GET https://api.focus.teamleader.eu/companies.list?page%5Bnumber%5D=1&page%5Bsize%5D=100` resulted in a `401 Unauthorized` response:
+{"errors":[{"title":"Missing authorization header","status":401}]}
+	
+2022-11-19 12:02:30	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Middleware.php(66): GuzzleHttp\Exception\RequestException::create(Object(GuzzleHttp\Psr7\Request), Object(GuzzleHttp\Psr7\Response))
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(204): GuzzleHttp\Middleware::GuzzleHttp\{closure}(Object(GuzzleHttp\Psr7\Response))
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(153): GuzzleHttp\Promise\Promise::callHandler(1, Object(GuzzleHttp\Psr7\Response), NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/TaskQueue.php(48): GuzzleHttp\Promise\Promise::GuzzleHttp\Promise\{closure}()
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(248): GuzzleHttp\Promise\TaskQueue->run(true)
+#5 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(224): GuzzleHttp\Promise\Promise->invokeWaitFn()
+#6 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(269): GuzzleHttp\Promise\Promise->waitIfPending()
+#7 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(226): GuzzleHttp\Promise\Promise->invokeWaitList()
+#8 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/promises/src/Promise.php(62): GuzzleHttp\Promise\Promise->waitIfPending()
+#9 /Volumes/htdocs/tigron-invoicing-tool/vendor/guzzlehttp/guzzle/src/Client.php(186): GuzzleHttp\Promise\Promise->wait()
+#10 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(129): GuzzleHttp\Client->request('GET', 'https://api.foc...', Array)
+#11 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Sync/Controller/Sync.php(46): Main\Module\Sync\Controller\Sync->getBatch(1)
+#12 [internal function]: Main\Module\Sync\Controller\Sync->sync()
+#13 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#14 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#15 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#16 {main}	
+2022-11-19 12:02:30	Destructed Console
+--
+	

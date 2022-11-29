@@ -1,0 +1,131 @@
+2022-11-16 13:56:46	Constructed Console	
+2022-11-16 13:56:46	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 13:56:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(33): Tigron\Cp\Order::get_by_id(24959)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 13:56:46	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 13:56:46	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(33): Tigron\Cp\Order::get_by_id(24959)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 13:56:46	Destructed Console
+--
+	
+2022-11-16 15:38:53	Constructed Console	
+2022-11-16 15:38:53	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:38:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(33): Tigron\Cp\Order::get_by_id(5)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:38:53	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:38:53	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Order.php(109): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(33): Tigron\Cp\Order::get_by_id(5)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:38:53	Destructed Console
+--
+	
+2022-11-16 15:41:19	Constructed Console	
+2022-11-16 15:41:19	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:41:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice::get_by_id(5)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:41:19	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:41:19	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice::get_by_id(5)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:41:19	Destructed Console
+--
+	
+2022-11-16 15:41:58	Constructed Console	
+2022-11-16 15:41:58	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:41:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice::get_by_id(338)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:41:58	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:41:58	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(25): Tigron\Cp\Invoice::get_by_id(338)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:41:58	Destructed Console
+--
+	
+2022-11-16 15:53:56	Constructed Console	
+2022-11-16 15:53:56	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:53:56	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(26): Tigron\Cp\Invoice::get_by_id(5)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:53:56	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:53:56	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(26): Tigron\Cp\Invoice::get_by_id(5)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:53:56	Destructed Console
+--
+	
+2022-11-16 15:56:04	Constructed Console	
+2022-11-16 15:56:04	Class \Main\Module\Tigron\Controller\Tigron does not exist	
+2022-11-16 15:56:04	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(994): ReflectionClass->__construct('\\Main\\Module\\Ti...')
+#1 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(1079): M\Controller\Dispatcher->_getController('\\Main\\Module\\Ti...')
+#2 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(759): M\Controller\Dispatcher->_getControllerFromPathElements(Array, NULL)
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(872): M\Controller\Dispatcher->getControllerCallback()
+#4 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#5 {main}	
+2022-11-16 15:56:04	Destructed Console
+--
+	
+2022-11-16 15:56:28	Constructed Console	
+2022-11-16 15:56:28	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:56:28	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(26): Tigron\Cp\Invoice::get_by_id(5)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:56:28	Error in soap call: 99999: No permission for user teamleader-dev	
+2022-11-16 15:56:28	#0 /Volumes/htdocs/tigron-invoicing-tool/vendor/tigron/tigron-api-client/Tigron/Cp/Invoice.php(105): Tigron\Cp\Client\Soap->__call('get_by_id', Array)
+#1 /Volumes/htdocs/tigron-invoicing-tool/app/Main/Module/Tigron/Controller/Tigron.php(26): Tigron\Cp\Invoice::get_by_id(5)
+#2 [internal function]: Main\Module\Tigron\Controller\Tigron->index()
+#3 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Util/Callback.php(747): call_user_func_array(Array, Array)
+#4 /Volumes/htdocs/tigron-invoicing-tool/vendor/multimedium/core/src/M/Controller/Dispatcher.php(881): M\Util\Callback->run()
+#5 /Volumes/htdocs/tigron-invoicing-tool/public/index.php(126): M\Controller\Dispatcher->dispatch()
+#6 {main}	
+2022-11-16 15:56:28	Destructed Console
+--
+	
